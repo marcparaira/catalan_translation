@@ -1,0 +1,14 @@
+[project]
+name = "eu4-catalan-translation-tools"
+version = "0.1.0"
+description = "Tools for the Catalan translation mod of Europa Universalis IV"
+requires-python = ">=3.12"
+dependencies = []
+
+[tool.basedpyright]
+include = ["tools"]
+exclude = ["**/__pycache__", ".venv", "tools/work"]
+venvPath = "."
+venv = ".venv"
+pythonVersion = "3.12"
+typeCheckingMode = "recommended"

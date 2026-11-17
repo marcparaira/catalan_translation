@@ -75,6 +75,28 @@ class LocFile:
     problems: list[tuple[int, str, str]]  # (line, severity, message)
 
 
+# (file, entries, translated entries, stale, words, translated words)
+ProgressRow = tuple[str, int, int, int, int, int]
+
+
+class Args(argparse.Namespace):
+    """Typed view of the parsed command line (union of all subcommands' options)."""
+
+    game: str | None = None
+    cmd: str = ""
+    file: str | None = None
+    all: bool = False
+    sort: str = "name"
+    limit: int = 0
+    out: str | None = None
+    force: bool = False
+    include_empty: bool = False
+    no_es: bool = False
+    todo: str = ""
+    quiet: bool = False
+    unknown: bool = False
+
+
 # ---------------------------------------------------------------- I/O
 
 def parse_file(path: Path) -> LocFile:
@@ -138,6 +160,8 @@ class Vanilla:
     """All English localisation of the installed game."""
 
     def __init__(self, game: Path):
+        self.game: Path = game
+        self._spanish: dict[str, str] | None = None
         self.files: dict[str, LocFile] = {}     # base name -> file
         self.index: dict[str, tuple[str, Entry]] = {}  # key -> (base name, entry)
         for p in sorted((game / "localisation").glob("*" + SUFFIX)):
@@ -146,6 +170,15 @@ class Vanilla:
             self.files[base] = lf
             for k in lf.order:
                 self.index[k] = (base, lf.entries[k])
+
+    def spanish(self) -> dict[str, str]:
+        """Official Spanish text by key (reference only; English is the source of truth)."""
+        if self._spanish is None:
+            self._spanish = {}
+            for p in (self.game / "localisation").glob("*_l_spanish.yml"):
+                for k, e in parse_file(p).entries.items():
+                    self._spanish[k] = e.value
+        return self._spanish
 
     def resolve(self, name: str) -> str:
         base = name
@@ -185,9 +218,20 @@ def words(s: str) -> int:
 
 # ---------------------------------------------------------------- checks
 
+# Catalan grammar helpers (see glossary/guia_estil.md §6), defined in customizable_localization/.
+CA_PARTICLE_RX = re.compile(r"\[[^\[\]\"]+\.GetCa(?:El|De|A|Per|DeProv)(?:Cap)?\]")
+CA_ADJ_RX = re.compile(r"(\[[^\[\]\"]+\.)GetCaAdj(?:FS|MP|FP)\]")
+
+
+def normalise_ca(ca: str) -> str:
+    """Strip Catalan-only helpers so token checks compare like with like."""
+    return CA_ADJ_RX.sub(r"\1GetAdjective]", CA_PARTICLE_RX.sub("", ca))
+
+
 def check_entry(en: str, ca: str) -> list[tuple[str, str]]:
     """Compare a translation against its English source. Returns (severity, message)."""
     out: list[tuple[str, str]] = []
+    raw_ca, ca = ca, normalise_ca(ca)
     for name, rx, sev in TOKEN_RULES:
         a, b = collections.Counter(rx.findall(en)), collections.Counter(rx.findall(ca))
         if a != b:
@@ -196,6 +240,7 @@ def check_entry(en: str, ca: str) -> list[tuple[str, str]]:
                 f"missing {' '.join(missing)}" if missing else "",
                 f"unexpected {' '.join(extra)}" if extra else ""] if x)
             out.append((sev, f"{name} mismatch: {detail}"))
+    ca = raw_ca
     bad = sorted({c for c in ca if not _cp1252(c) and c not in en})
     if bad:
         out.append(("error", f"characters the game font cannot show: {' '.join(bad)}"))
@@ -217,15 +262,15 @@ def _cp1252(c: str) -> bool:
 
 # ---------------------------------------------------------------- commands
 
-def cmd_progress(args, van: Vanilla) -> int:
+def cmd_progress(args: Args, van: Vanilla) -> int:
     trans = load_translations()
     hashes = load_hashes()
     done: dict[str, str] = {}
     for lf in trans.values():
         for k, e in lf.entries.items():
             done[k] = e.value
-    rows = []
-    tot = collections.Counter()
+    rows: list[ProgressRow] = []
+    tot: collections.Counter[str] = collections.Counter()
     for base, lf in van.files.items():
         n = len(lf.order)
         w = sum(words(lf.entries[k].value) for k in lf.order)
@@ -238,8 +283,12 @@ def cmd_progress(args, van: Vanilla) -> int:
         rows = [r for r in rows if r[0] == van.resolve(args.file)]
     elif not args.all:
         rows = [r for r in rows if r[2]] or rows[:0]
-    key = {"name": lambda r: r[0], "size": lambda r: -r[4], "pct": lambda r: -(r[5] / r[4] if r[4] else 0)}
-    rows.sort(key=key[args.sort])
+    if args.sort == "name":
+        rows.sort(key=lambda r: r[0])
+    elif args.sort == "size":
+        rows.sort(key=lambda r: -r[4])
+    else:
+        rows.sort(key=lambda r: -(r[5] / r[4] if r[4] else 0.0))
     if rows:
         print(f"{'file':<40} {'entries':>14} {'words':>16} {'stale':>6}")
         for base, n, t, s, w, tw in rows:
@@ -253,7 +302,9 @@ def cmd_progress(args, van: Vanilla) -> int:
     return 0
 
 
-def cmd_todo(args, van: Vanilla) -> int:
+def cmd_todo(args: Args, van: Vanilla) -> int:
+    if not args.file:  # required by argparse; narrows the type
+        sys.exit("todo needs a vanilla file name")
     base = van.resolve(args.file)
     out = Path(args.out) if args.out else WORK_DIR / f"{base}.todo.yml"
     if out.exists() and not args.force:
@@ -262,7 +313,9 @@ def cmd_todo(args, van: Vanilla) -> int:
     existing = parse_file(ca_path(base)).entries if ca_path(base).exists() else {}
     others = {k for p, lf in load_translations().items() if p != ca_path(base) for k in lf.entries}
     hashes = load_hashes()
-    picked, comments = [], {}
+    es = {} if args.no_es else van.spanish()
+    picked: list[Entry] = []
+    comments: collections.defaultdict[str, list[str]] = collections.defaultdict(list)
     for k in src.order:
         e = src.entries[k]
         if k in others:
@@ -270,9 +323,11 @@ def cmd_todo(args, van: Vanilla) -> int:
         if k in existing:
             if not (k in hashes and hashes[k] != src_hash(e.value)):
                 continue
-            comments[k] = [f'STALE - English changed. Previous Catalan: "{existing[k].value}"']
+            comments[k].append(f'STALE - English changed. Previous Catalan: "{existing[k].value}"')
         if not args.include_empty and not e.value.strip():
             continue
+        if es.get(k, e.value) != e.value:
+            comments[k].append(f'ES: "{es[k]}"')
         picked.append(Entry(k, e.version, e.value, 0))
         if args.limit and len(picked) >= args.limit:
             break
@@ -282,13 +337,15 @@ def cmd_todo(args, van: Vanilla) -> int:
     write_file(out, picked, comments, preamble=[
         f" # catloc todo for '{base}' ({len(picked)} entries).",
         " # Replace each English value with Catalan. Keep keys, :N, $VARS$, [Scopes], §X..§!, £icons£, \\n.",
+        " # '# ES:' lines are the official Spanish text, for reference only. Its Spanish-only",
+        " # helpers ([Root.GetElLaDir]...) must NOT be copied; use the GetCa... helpers instead.",
         " # Then run: python3 tools/catloc.py merge " + out.relative_to(MOD_DIR).as_posix(),
     ])
     print(f"wrote {len(picked)} entries ({sum(words(e.value) for e in picked)} words) to {out}")
     return 0
 
 
-def cmd_merge(args, van: Vanilla) -> int:
+def cmd_merge(args: Args, van: Vanilla) -> int:
     path = Path(args.todo)
     todo = parse_file(path)
     for ln, sev, msg in todo.problems:
@@ -297,7 +354,8 @@ def cmd_merge(args, van: Vanilla) -> int:
         return 1
     hashes = load_hashes()
     by_base: dict[str, list[Entry]] = collections.defaultdict(list)
-    left, skipped, failed = [], 0, 0
+    left: list[Entry] = []
+    skipped = failed = 0
     for k in todo.order:
         e = todo.entries[k]
         if k not in van.index:
@@ -340,7 +398,7 @@ def cmd_merge(args, van: Vanilla) -> int:
     return 1 if failed else 0
 
 
-def cmd_validate(args, van: Vanilla) -> int:
+def cmd_validate(args: Args, van: Vanilla) -> int:
     errors = warnings = 0
     first_seen: dict[str, Path] = {}
 
@@ -378,7 +436,7 @@ def cmd_validate(args, van: Vanilla) -> int:
     return 1 if errors else 0
 
 
-def cmd_stale(args, van: Vanilla) -> int:
+def cmd_stale(args: Args, van: Vanilla) -> int:
     hashes = load_hashes()
     n = 0
     for p, lf in load_translations().items():
@@ -396,7 +454,7 @@ def cmd_stale(args, van: Vanilla) -> int:
     return 0
 
 
-def cmd_rehash(args, van: Vanilla) -> int:
+def cmd_rehash(args: Args, van: Vanilla) -> int:
     hashes = load_hashes()
     added = 0
     for lf in load_translations().values():
@@ -425,6 +483,7 @@ def main() -> int:
     _ = p.add_argument("-o", "--out", help="output path (default tools/work/<file>.todo.yml)")
     _ = p.add_argument("--force", action="store_true", help="overwrite an existing todo file")
     _ = p.add_argument("--include-empty", action="store_true", help="include entries whose English is empty")
+    _ = p.add_argument("--no-es", action="store_true", help="don't add the official Spanish text as reference comments")
 
     p = sub.add_parser("merge", help="validate a translated todo file and merge it into the mod")
     _ = p.add_argument("todo")
@@ -440,7 +499,7 @@ def main() -> int:
     p = sub.add_parser("rehash", help="record current English hashes for hand-made translations")
     _ = p.add_argument("--force", action="store_true", help="overwrite existing hashes too (marks all as up to date)")
 
-    args = ap.parse_args()
+    args = ap.parse_args(namespace=Args())
     van = Vanilla(find_game(args.game))
     return {"progress": cmd_progress, "todo": cmd_todo, "merge": cmd_merge, "validate": cmd_validate,
             "stale": cmd_stale, "rehash": cmd_rehash}[args.cmd](args, van)

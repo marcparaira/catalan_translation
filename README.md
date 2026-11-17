@@ -32,6 +32,8 @@ python3 tools/catloc.py merge tools/work/text.todo.yml
 python3 tools/catloc.py progress
 ```
 
+English is the source text. Todo files also show the official Spanish translation (`# ES:` comment lines) as a reference; use `--no-es` to leave it out. Follow [glossary/glossari.md](glossary/glossari.md) for terminology and [glossary/guia_estil.md](glossary/guia_estil.md) for style.
+
 Keep the game codes unchanged: `$VARS$`, `[Scopes]`, `§Y…§!` colours, `£icons£`, `@TAG` flags and `\n`. `merge` won't merge an entry if one of these doesn't match.
 
 ## Other commands
