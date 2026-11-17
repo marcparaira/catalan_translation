@@ -1,0 +1,10 @@
+﻿l_english:
+ LOAD_GFX_PDXMAP_SHADERS:0 "Carregant el mapa (creant ombrejadors)..."
+ LOAD_GFX_PDXMAP_TERRAIN:0 "Carregant el mapa (creant el terreny)..."
+ LOAD_GFX_PDXMAP_BORDERS:0 "Carregant el mapa (creant les fronteres)..."
+ LOAD_GFX_PDXMAP_STRAITS:0 "Carregant el mapa (creant els estrets)..."
+ LOAD_GFX_PDXMAP_TEXTURES:0 "Carregant el mapa (creant les textures)..."
+ LOAD_GFX_PDXMAP_TREES:0 "Carregant el mapa (creant els arbres)..."
+ LOAD_GFX_PDXMAP_RIVERS:0 "Carregant el mapa (creant els rius)..."
+ LOAD_GFX_PDXMAP_STATIC_OBJECTS:0 "Carregant el mapa (creant els objectes)..."
+ LOAD_INIT:0 "Inicialitzant el joc..."

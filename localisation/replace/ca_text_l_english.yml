@@ -1,0 +1,7 @@
+﻿l_english:
+ LOAD_FLAGS:0 "Carregant les banderes..."
+ LOAD_GFX:0 "«Carregant els gràfics...«"
+ LOAD_EVENTS:0 "Carregant els esdeveniments..."
+ LOAD_CITY:0 "Carregant la ciutat..."
+ LOAD_GAME_FAILED:0 "No s'ha pogut carregar la partida."
+ LOAD_CAPACITY_LABEL:0 "Pot transportar $NUM$ regiments."
