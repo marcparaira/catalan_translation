@@ -1,0 +1,5 @@
+﻿l_english:
+ # Fitxer de prova: tecles visibles a la pantalla de configuració de partida
+ FE_CONTENT:0 "Contingut"
+ FE_IRONMAN:0 "Mode Ironman (prova: àèéíïòóúüç l·l)"
+ FE_LIMITED_LEDGER:0 "Llibre major limitat"
