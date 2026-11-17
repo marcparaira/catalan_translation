@@ -1,0 +1,5 @@
+﻿l_english:
+ # DEV ONLY - texts of events/ca_test_events.txt. Remove before release.
+ CA_TEST_TITLE:0 "Prova dels ajudants"
+ CA_TEST_DESC:0 "País: [Root.GetName]\nEl: <[Root.GetCaEl] [Root.GetName]> / <[Root.GetCaElCap] [Root.GetName]>\nDe: <l'exèrcit [Root.GetCaDe] [Root.GetName]> / <[Root.GetCaDeCap] [Root.GetName]>\nA: <viatge [Root.GetCaA] [Root.GetName]>\nPer: <conquerit [Root.GetCaPer] [Root.GetName]>\nAdjectius: <exèrcit [Root.GetAdjective]> <armada [Root.GetCaAdjFS]> <soldats [Root.GetCaAdjMP]> <naus [Root.GetCaAdjFP]>\nCapital: <[Root.Capital.GetName]> <ciutat [Root.Capital.GetCaDeProv] [Root.Capital.GetName]> <[Root.Capital.GetCaAProv] [Root.Capital.GetName]>"
+ CA_TEST_OK:0 "D'acord"

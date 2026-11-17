@@ -60,7 +60,7 @@ Els codis es poden **moure** dins la frase. La versió numèrica (`:0`, `:1`) la
 
 L'anglès insereix noms en frases fetes (`the army of [Root.GetName]`). En català això trenca les contraccions (*de el Japó*, *de Anglaterra*). Fem servir **ajudants propis** (`customizable_localization`) que trien la forma correcta segons el país, com fa la traducció francesa oficial.
 
-### Ajudants (pendents d'implementar; vegeu §9)
+### Ajudants (generats per `tools/catnames.py build`; vegeu §9)
 
 Àmbit de país (`Root`, `From`, `Owner`, `Overlord`…):
 
@@ -74,11 +74,12 @@ L'anglès insereix noms en frases fetes (`the army of [Root.GetName]`). En catal
 
 `GetAdjective` (sense ajudant) dona el **masculí singular**: *l'exèrcit [Root.GetAdjective]* → *l'exèrcit anglès*.
 
-Àmbit de província:
+Àmbit de província: els mateixos ajudants amb `Prov` (`GetCaElProv`, `GetCaDeProv`, `GetCaAProv`, `GetCaPerProv`, i les variants `…ProvCap`). La majoria de províncies no porten article, però algunes sí (*el Caire*, *l'Havana*, *els Pirineus*):
 
-| Ajudant | Retorna | Ús |
-|---|---|---|
-| `GetCaDeProv` / `GetCaDeProvCap` | de, d' | `[Root.GetCaDeProv] [Root.GetName]` → *de Barcelona*, *d'Amsterdam* |
+| Ajudant | Exemple |
+|---|---|
+| `[Root.GetCaDeProv] [Root.GetName]` | *de Barcelona*, *d'Amsterdam*, *del Caire*, *dels Pirineus* |
+| `[Root.GetCaAProv] [Root.GetName]` | *a Barcelona*, *al Caire*, *a l'Havana* |
 
 Sempre amb **un espai** entre l'ajudant i el nom: els valors elidits (`d'`, `l'`) acaben en `£`, que fa desaparèixer l'espai que ve després.
 
@@ -112,8 +113,12 @@ Forma catalana si és establerta (*Carles V*, *Felip II*, *Lluís XIV*, *Solimà
 - Si cal abreujar: **ADM**, **DIP**, **MIL** (poders); *Desenv.* (desenvolupament); *Màx.*; *Mín.*; *Mod.* (modificador). Sempre amb punt quan la paraula queda tallada.
 - Si un text desborda al joc, s'anota i s'escurça.
 
-## 9. Pendent abans de la fase 3
+## 9. Estat dels ajudants
 
-1. Crear la taula de països i províncies (`glossary/paisos.tsv`, `glossary/provincies.tsv`) amb el nom, l'article i les quatre formes de l'adjectiu.
-2. Generar-ne el fitxer `customizable_localization/` amb els ajudants del §6.
-3. Comprovar al joc que el truc `d'£` també funciona amb el joc en anglès.
+1. ✔ Taules de països i províncies: `glossary/paisos.tsv`, `glossary/provincies.tsv`.
+2. ✔ Generador: `python3 tools/catnames.py build` crea els ajudants del §6.
+3. ☐ Comprovar al joc:
+   - que el truc `d'£` funciona amb el joc en anglès;
+   - que `£` sol (països sense article) no deixa cap espai ni símbol visible;
+   - que l'adjectiu de reserva `[This.GetAdjective]` (nacions colonials i dinàmiques) funciona quan l'ajudant s'aplica a `From`, `Owner`, etc.
+4. Limitació coneguda: quan un país canvia de nom per un indicador (*flag*), com ara la Xina o l'Imperi Angeví, els ajudants continuen fent servir la forma del seu tag original.

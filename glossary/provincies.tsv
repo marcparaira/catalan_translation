@@ -1,0 +1,3926 @@
+id	en	ca	article	de	notes
+1	Stockholm	Estocolm			
+2	Östergötland	Östergötland			
+3	Kalmar	Kalmar			
+4	Bergslagen	Bergslagen			
+5	Värmland	Värmland			
+6	Lund	Lund			
+7	Skaraborg	Skaraborg			
+8	Dalaskogen	Dalaskogen			
+9	Hälsingland	Hälsingland			
+10	Jämtland	Jämtland			
+11	Västerbotten	Västerbotten			
+12	Sjælland	Sjælland			
+13	Slesvig	Slesvig			
+14	Fyn	Fiònia			
+15	Vestjylland	Vestjylland			
+16	Bohuslän	Bohuslän			
+17	Akershus	Akershus			
+18	Lappland	Lapònia			
+19	Österbotten	Österbotten			
+20	Trøndelag	Trøndelag			
+21	Hålogaland	Hålogaland			
+22	Opplanda	Opplanda			
+23	Bergenhus	Bergenhus			
+24	Stavanger	Stavanger			
+25	Gotland	Gotland			
+26	Halland	Halland			
+27	Åbo	Åbo			
+28	Nyland	Nyland			
+29	Tavastland	Tavastland			
+30	Viborg	Viborg			
+31	Savolax	Savolax			
+32	Kexholm	Kexholm			
+33	Neva	Neva			
+34	Ingermanland	Íngria			
+35	Ösel	Ösel			
+36	Reval	Reval			
+37	Livland	Livònia			
+38	Riga	Riga			
+39	Goldingen	Goldingen			
+40	Memel	Memel			
+41	Königsberg	Königsberg			
+42	Warmia	Vàrmia			
+43	Danzig	Danzig			
+44	Hamburg	Hamburg			
+45	Lübeck	Lübeck			
+46	Rostock	Rostock			
+47	Stralsund	Stralsund			
+48	Kolberg	Kolberg			
+49	Neumark	Neumark			
+50	Berlin	Berlin			
+51	Ruppin	Ruppin			
+52	Magdeburg	Magdeburg			
+53	Lüneburg	Lüneburg			
+54	Stade	Stade			
+55	Oldenburg	Oldenburg			
+56	Osnabrück	Osnabrück			
+57	Brunswick	Brunsvic			
+58	Anhalt	Anhalt			
+59	Wittenberg	Wittenberg			
+60	Bautzen	Bautzen			
+61	Dresden	Dresden			
+62	Leipzig	Leipzig			
+63	Erfurt	Erfurt			
+64	Landshut	Landshut			
+65	München	Munic			
+66	Bamberg	Bamberg			
+67	Nürnberg	Nuremberg			
+68	Memmingen	Memmingen			
+69	Dortmund	Dortmund			
+70	Stuttgart	Stuttgart			
+71	Ansbach	Ansbach			
+72	Breisgau	Breisgau			
+73	Inntal	Inntal			
+74	Baden	Baden			
+75	Straßburg	Straßburg			
+76	Salzburg	Salzburg			
+77	Heidelberg	Heidelberg			
+78	Mainz	Mainz			
+79	Würzburg	Würzburg			
+80	Trier	Trier			
+81	Oberhessen	Oberhessen			
+82	Westfalen	Westfàlia			
+83	Nassau	Nassau			
+84	Berg	Berg			
+85	Köln	Colònia			
+86	Münster	Münster			
+87	Calais	Calais			
+88	Artois	Artois			
+89	Picardie	Picardia			
+90	Bruges	Bruges			
+91	Hainaut	Hainaut			
+92	Brussels	Brussel·les			
+93	Liège	Lieja			
+94	Luxemburg	Luxemburg			
+95	Breda	Breda			
+96	Zeeland	Zelanda			Zelanda neerlandesa; Sjælland es manté en danès per evitar confusió
+97	Amsterdam	Amsterdam			
+98	Utrecht	Utrecht			
+99	Gelre	Gelre			
+100	Friesland	Frísia			
+101	Genoa	Gènova			
+102	Nice	Niça			
+103	Turin	Torí			
+104	Milan	Milà			
+105	Parma	Parma			
+106	Modena	Mòdena			
+107	Brescia	Brescia			
+108	Verona	Verona			
+109	Mantua	Màntua			
+110	Trentino	Trentino			
+111	Friuli	Friül			
+112	Venezia	Venècia			
+113	Ferrara	Ferrara			
+114	Ravenna	Ravenna			
+115	Pisa	Pisa			
+116	Firenze	Florència			
+117	Siena	Siena			
+118	Roma	Roma			
+119	Ancona	Ancona			
+120	Abruzzi	Abruços			
+121	Napoli	Nàpols			
+122	Salento	Salento			
+123	Calabria	Calàbria			
+124	Messina	Messina			
+125	Palermo	Palermo			
+126	Malta	Malta			
+127	Sassari	Sàsser			
+128	Unterkärnten	Unterkärnten			
+129	Krain	Carniola			
+130	Istria	Ístria			
+131	Zagreb	Zagreb			
+132	Steiermark	Estíria			
+133	Ob der Enns	Ob der Enns			
+134	Wien	Viena			
+135	Sopron	Sopron			
+136	Split	Split			
+137	Ragusa	Ragusa			
+138	Zeta	Zeta			
+139	Hum	Hum			
+140	Bosnia	Bòsnia			
+141	Smederevo	Smederevo			
+142	Corfu	Corfú			
+143	Vlorë	Vlorë			
+144	Epirus	Epir			
+145	Morea	Morea			
+146	Athens	Atenes			
+147	Thessaly	Tessàlia			
+148	Macedonia	Macedònia			
+149	Edirne	Edirne			
+150	Nikopol	Nikopol			
+151	Constantinople	Constantinoble			
+152	Varasd	Varasd			
+153	Pest	Pest			
+154	Hont	Hont			
+155	Békés	Békés			
+156	Temes	Temes			
+157	Bihar	Bihar			
+158	Maros	Maros			
+159	Silistria	Silistria			
+160	Oltenia	Oltènia			
+161	Tîrgoviste	Tîrgoviste			
+162	Zemplén	Zemplén			
+163	Crete	Creta			
+164	Naxos	Naxos			
+165	Bern	Berna			
+166	Waldstätte	Waldstätte			
+167	Caux	Caux			
+168	Caen	Caen			
+169	Armor	Armor			
+170	Finistère	Finistère			
+171	Vannetais	Vannetais			
+172	Nantais	Nantais			
+173	Labourd	Labourd			
+174	Bordeaux	Bordeus			
+175	Armagnac	Armagnac			
+176	Béarn	Bearn			
+177	Maine	Maine			
+178	Anjou	Anjou			
+179	Berry	Berry			
+180	Haut-Poitou	Haut-Poitou			
+181	Rethel	Rethel			
+182	Valois	Valois			
+183	Paris	París			
+184	Orleanais	Orleanais			
+185	Nemours	Nemours			
+186	Reims	Reims			
+187	Barrois	Barrois			
+188	Metz	Metz			
+189	Lothringen	Lorena			
+190	Bourbonnais	Bourbonnais			
+191	Nivernais	Nivernais			
+192	Dijonnais	Dijonnais			
+193	Franche-Comté	Franc Comtat			
+194	Périgord	Perigord			
+195	Limousin	Llemosí			
+196	Toulouse	Tolosa			
+197	Roussillon	Rosselló			
+198	Rouergue	Roergue			
+199	Auvergne	Alvèrnia			
+200	Montpellier	Montpellier			
+201	Aix	Aix			
+202	Avignon	Avinyó			
+203	Lyonnais	Lionès			
+204	Dauphiné	Delfinat			
+205	Chambery	Chambéry			
+206	Corunna	Corunya			
+207	Asturias	Astúries			
+208	León	Lleó			
+209	Vizcaya	Biscaia			
+210	Navarra	Navarra			
+211	Huesca	Osca			
+212	Girona	Girona			
+213	Barcelona	Barcelona			
+214	Zaragoza	Saragossa			
+215	Valladolid	Valladolid			
+216	Salamanca	Salamanca			
+217	Madrid	Madrid			
+218	Badajoz	Badajoz			
+219	Toledo	Toledo			
+220	València	València			
+221	Murcia	Múrcia			
+222	Almería	Almeria			
+223	Granada	Granada			
+224	Sevilla	Sevilla			
+225	Córdoba	Còrdova			
+226	Gibraltar	Gibraltar			
+227	Lisboa	Lisboa			
+228	Beira	Beira			
+229	Beja	Beja			
+230	Algarve	Algarve			
+231	Porto	Porto			
+232	Bragança	Bragança			
+233	Cornwall	Cornualla			
+234	Hampshire	Hampshire			
+235	Kent	Kent			
+236	London	Londres			
+237	Oxford	Oxford			
+238	Essex	Essex			
+239	Gloucester	Gloucester			
+240	Shrewsbury	Shrewsbury			
+241	Glamorgan	Glamorgan			
+242	Gwynedd	Gwynedd			
+243	Lincolnshire	Lincolnshire			
+244	Lancashire	Lancashire			
+245	York	York			
+246	Northumberland	Northumberland			
+247	Cumbria	Cúmbria			
+248	Lothian	Lothian			
+249	Ayrshire	Ayrshire			
+250	Perth	Perth			
+251	Aberdeen	Aberdeen			
+252	Inverness	Inverness			
+253	Outer Hebrides	Hèbrides Exteriors	les		
+254	Poznan	Poznan			
+255	Kalisz	Kalisz			
+256	Plock	Plock			
+257	Warszawa	Varsòvia			
+258	Sieradz	Sieradz			
+259	Sandomierz	Sandomierz			
+260	Lublin	Lublin			
+261	Halicz	Halicz			
+262	Krakow	Cracòvia			
+263	Ratibor	Ratibor			
+264	Breslau	Breslau			
+265	Brno	Brno			
+266	Prague	Praga			
+267	Plzen	Plzen			
+268	Suceava	Suceava			
+269	Podlasie	Podlasie			
+270	Trakai	Trakai			
+271	Samogitia	Samogítia			
+272	Vilna	Vilna			
+273	Latgalia	Latgàlia			
+274	Pskov	Pskov			
+275	Polotsk	Polotsk			
+276	Minsk	Minsk			
+277	Brest	Brest			
+278	Pinsk	Pinsk			
+279	Volhynia	Volínia			
+280	Kiev	Kíev			
+281	Podolia	Podòlia			
+282	Yedisan	Yedisan			
+283	Zaporozhia	Zaporíjia			
+284	Crimea	Crimea			
+285	Caffa	Caffa			
+286	Azov	Azov			
+287	Kuban	Kuban			
+288	Lower Don	Baix Don	el		
+289	Chernigov	Txernígov			
+290	Poltava	Poltava			
+291	Kharkov	Khàrkov			
+292	Mogilev	Mogilev			
+293	Smolensk	Smolensk			
+294	Tver	Tver			
+295	Moskva	Moscou			
+296	Kaluga	Kaluga			
+297	Bryansk	Bryansk			
+298	Kursk	Kursk			
+299	Voronezh	Voronezh			
+300	Tula	Tula			
+301	Ryazan	Riazan			
+302	Tambov	Tambov			
+303	Saratov	Saratov			
+304	Penza	Penza			
+305	Perm	Perm			
+306	Nizhny Novgorod	Nizhny Novgorod			
+307	Vladimir	Vladimir			
+308	Yaroslavl	Iaroslavl			
+309	Olonets	Olonets			
+310	Novgorod	Novgorod			
+311	Kholm	Kholm			
+312	Beloozero	Beloozero			
+313	Soroka	Soroka			
+314	Vologda	Vologda			
+315	Finnmark	Finnmark			
+316	Kocaeli	Kocaeli			
+317	Hüdavendigar	Hüdavendigar			
+318	Sugla	Sugla			
+319	Mentese	Mentese			
+320	Rhodes	Rodes			
+321	Cyprus	Xipre			
+322	Kütahya	Kütahya			
+323	Konya	Konya			
+324	Karaman	Karaman			
+325	Kastamonu	Kastamonu			
+326	Ankara	Ankara			
+327	Adana	Adana			
+328	Sinop	Sinop			
+329	Sivas	Sivas			
+330	Trebizond	Trebisonda			
+331	Erzurum	Erzurum			
+332	Marash	Marash			
+333	Mallorca	Mallorca			
+334	Tangiers	Tànger			
+335	Melilla	Melilla			
+336	Tlemcen	Tlemcen			
+337	Oran	Orà			
+338	Mitidja	Mitidja			
+339	Kabylia	Cabília			
+340	Constantine	Constantina			
+341	Tunis	Tunis			
+342	Gharb	Gharb			
+343	Fez	Fes			
+344	Marrakech	Marràqueix			
+345	Abda	Abda			
+346	Tafilalt	Tafilalt			
+347	Ifni	Ifni			
+348	Sus	Sus			
+349	Figuig	Figuig			
+350	Laghouat	Laghouat			
+351	Biskra	Biskra			
+352	Gafsa	Gafsa			
+353	Tataouine	Tataouine			
+354	Tripoli	Trípoli			
+355	Sirt	Sirt			
+356	Benghazi	Bengasi			
+357	Darnah	Darnah			
+358	Alexandria	Alexandria			
+359	Fayyum	Fayyum			
+360	Qus	Qus			
+361	Cairo	Caire	el		
+362	Rosetta	Rosetta			
+363	Damietta	Damiata			
+364	Gaza	Gaza			
+365	Sinai	Sinaí			
+366	Gran Canaria	Gran Canaria			
+367	The Azores	Açores	les		
+368	Madeira	Madeira			
+369	Orkney	Òrcades			
+370	Reykjavik	Reykjavík			
+371	Akureyri	Akureyri			
+372	Tyrone	Tyrone			
+373	Pale	Pale			
+374	Leinster	Leinster			
+375	Limerick	Limerick			
+376	Connaught	Connacht			
+377	Aleppo	Alep			
+378	Tarabulus	Tarabulus			
+379	Jerusalem	Jerusalem			
+380	Al Karak	Al Karak			
+381	Ajlun	Ajlun			
+382	Damascus	Damasc			
+383	Tabuk	Tabuk			
+384	Medina	Medina			
+385	Mecca	Meca	la		
+386	Bishah	Bishah			
+387	Mokha	Moca			
+388	Aden	Aden			
+389	Mukalla	Mukalla			
+390	Sana'a	Sanà			
+391	Najran	Najran			
+392	Al-Arid	Al-Arid			
+393	Jabal Shammar	Jabal Shammar			
+394	Al-Qatif	Al-Qatif			
+395	Qatar	Qatar			
+396	Bahrain	Bahrain			
+397	Bani Yas	Bani Yas			
+398	Qawasim	Qawasim			
+399	Batinah	Batinah			
+400	Muscat	Masqat			
+401	Dhofar	Dhofar			
+402	Qishn	Qishn			
+403	Nizwa	Nizwa			
+404	Liwa	Liwa			
+405	Tadmor	Tadmor			
+406	Haditha	Haditha			
+407	Ar Raqqa	Ar Raqqa			
+408	Basra	Bàssora			
+409	Karbala	Karbala			
+410	Baghdad	Bagdad			
+411	Mosul	Mossul			
+412	Ahvaz	Ahvaz			
+413	Khorramabad	Khorramabad			
+414	Hamadan	Hamadan			
+415	Kirkuk	Kirkuk			
+416	Tabriz	Tabriz			
+417	Lahijan	Lahijan			
+418	Diyarbakir	Diyarbakir			
+419	Yerevan	Erevan			
+420	Ganja	Ganja			
+421	Shirvan	Xirvan			
+422	Imereti	Imerètia			
+423	Tbilisi	Tbilisi			
+424	Ardabil	Ardabil			
+425	Dagestan	Daguestan			
+426	Amol	Amol			
+427	Qumis	Qumis			
+428	Teheran	Teheran			
+429	Isfahan	Isfahan			
+430	Dashtistan	Dashtistan			
+431	Mogostan	Mogostan			
+432	Kerman	Kerman			
+433	Yazd	Yazd			
+434	Quhistan	Quhistan			
+435	Zaranj	Zaranj			
+436	Birjand	Birjand			
+437	Kopet Dag	Kopet Dag			
+438	Karakum	Karakum			
+439	Mangyshlak	Mangyshlak			
+440	Qaraqalpak	Qaraqalpak			
+441	Khiva	Khiva			
+442	Bukhara	Bukharà			
+443	Ustyurt	Ustyurt			
+444	Charjuy	Charjuy			
+445	Merv	Merv			
+446	Herat	Herat			
+447	Kandahar	Kandahar			
+448	Gazni	Gazni			
+449	Ghor	Ghor			
+450	Balkh	Balkh			
+451	Kabul	Kabul			
+452	Badakhshan	Badakhshan			
+453	Qarshi	Qarshi			
+454	Samarkand	Samarcanda			
+455	Kyzylkum	Kyzylkum			
+456	Turkestan	Turquestan			
+457	Tashkent	Taixkent			
+458	Kokand	Kokand			
+459	Taraz	Taraz			
+460	Uzkend	Uzkend			
+461	Almaty	Almaty			
+462	Odishi	Odishi			
+463	Circassia	Circàssia			
+464	Astrakhan	Astracan			
+465	Nogay	Nogay			
+466	Sarai	Sarai			
+467	Borisoglebsk	Borisoglebsk			
+468	Manych	Manych			
+469	Ryn	Ryn			
+470	Bayuly	Bayuly			
+471	Alimuly	Alimuly			
+472	Zhetyru	Zhetyru			
+473	Samara	Samara			
+474	Yaik	Yaik			
+475	Bashkortostan	Baixkortostan			
+476	Kypshak	Kypshak			
+477	Nadym	Nadym			
+478	Argyn	Argyn			
+479	Kerey	Kerey			
+480	Pegaya Orda	Pegaya Orda			
+481	Bermuda	Bermudes	les		
+482	Bahamas	Bahames	les		
+483	Turks Islands	Turks Islands			
+484	Havana	Havana			⚠ porta article (l'Havana)
+485	Moron	Moron			
+486	Guantanamo	Guantanamo			
+487	Jamaica	Jamaica			
+488	Zui	Zui			
+489	Tortuga	Tortuga			
+490	Bani	Bani			
+491	Aruba	Aruba			
+492	Borikén	Borikén			
+493	St. Thomas	Saint Thomas			
+494	St. Kitts	Saint Kitts			
+495	Antigua	Antigua			
+496	Guadelupe	Guadalupe			
+497	Dominica	Dominica			
+498	Martinique	Martinica			
+499	St. Lucia	Saint Lucia			
+500	St. Vincent	Saint Vincent			
+501	Barbados	Barbados			
+502	Trinidad	Trinidad			
+503	Kutch	Kutch			
+504	Thatta	Thatta			
+505	Sehwan	Sehwan			
+506	Multan	Multan			
+507	Lahore	Lahore			
+508	Kashmir	Caixmir			
+509	Kangra	Kangra			
+510	Sirhind	Sirhind			
+511	Garhwal	Garhwal			
+512	Jangladesh	Jangladesh			
+513	Jaisalmer	Jaisalmer			
+514	Marwar	Marwar			
+515	Girnar	Girnar			
+516	Baroda	Baroda			
+517	Surat	Surat			
+518	Chittor	Chittor			
+519	Dhundar	Dhundar			
+520	Mewat	Mewat			
+521	Rajkot	Rajkot			
+522	Delhi	Delhi			
+523	Lucknow	Lucknow			
+524	Central Doab	Central Doab			
+525	Gird	Gird			
+526	Mandu	Mandu			
+527	Burhanpur	Burhanpur			
+528	Hadoti	Hadoti			
+529	Thana	Thana			
+530	Dabhol	Dabhol			
+531	North Kanara	North Kanara			
+532	Raichur	Raichur			
+533	Mysore	Mysore			
+534	Calicut	Calicut			
+535	Kochin	Cochin			
+536	Madurai	Madurai			
+537	Venad	Venad			
+538	Kongu	Kongu			
+539	Tondainadu	Tondainadu			
+540	Cuddalore	Cuddalore			
+541	Vijayanagar	Vijayanagar			
+542	Golconda	Golconda			
+543	Velanadu	Velanadu			
+544	Ahmadnagar	Ahmadnagar			
+545	Daulatabad	Daulatabad			
+546	East Berar	East Berar			
+547	Bastar	Bastar			
+548	Illichpur	Illichpur			
+549	Kalingandhra	Kalingandhra			
+550	Mahakoshal	Mahakoshal			
+551	Mandla	Mandla			
+552	Cuttack	Cuttack			
+553	Sambalpur	Sambalpur			
+554	Baisi Rajya	Baisi Rajya			
+555	Jaunpur	Jaunpur			
+556	Lower Doab	Lower Doab			
+557	Katmandu	Katmandu			
+558	Pataliputra	Pataliputra			
+559	Jhansi	Jhansi			
+560	Jharkhand	Jharkhand			
+561	Bengal Delta	Delta del Bengala	el		
+562	Koch	Koch			
+563	Gauda	Gauda			
+564	Dhaka	Dhaka			
+565	Paro	Paro			
+566	Assam	Assam			
+567	Silhet	Silhet			
+568	Chittagong	Chittagong			
+569	Bijapur	Bijapur			
+570	Naga	Naga			
+571	Darrang	Darrang			
+572	Kotte	Kotte			
+573	Cachar	Cachar			
+574	The Andamans	Illes Andaman	les		
+575	Gwadar	Gwadar			
+576	Kalat	Kalat			
+577	Quetta	Quetta			
+578	Roh	Roh			
+579	Mrauk U	Mrauk U			
+580	Kale	Kale			
+581	Sagaing	Sagaing			
+582	Mong Yang	Mong Yang			
+583	Hsenwi	Hsenwi			
+584	Ava	Ava			
+585	Taungoo	Taungoo			
+586	Pegu	Pegu			
+587	Kengtung	Kengtung			
+588	Mong Nai	Mong Nai			
+589	Chiang Mai	Chiang Mai			
+590	Martaban	Martaban			
+591	Tavoy	Tavoy			
+592	Ratchaburi	Ratchaburi			
+593	Nakhon Si Thammarat	Nakhon Si Thammarat			
+594	Pattani	Pattani			
+595	Perak	Perak			
+596	Malacca	Malaca			
+597	Johor	Johor			
+598	Pahang	Pahang			
+599	Kelantan	Kelantan			
+600	Ayutthaya	Ayutthaya			
+601	Sukhothai	Sukhothai			
+602	Chiang Rai	Chiang Rai			
+603	Nakhon Thung Yai	Nakhon Thung Yai			
+604	Oudong	Oudong			
+605	Prey Nokor	Prey Nokor			
+606	Panduranga	Panduranga			
+607	Vijaya	Vijaya			
+608	Attapeu	Attapeu			
+609	Angkor	Angkor			
+610	Thanh Hoa	Thanh Hoa			
+611	Sikhottabong	Sikhottabong			
+612	Khorat	Khorat			
+613	Dong Kinh	Dong Kinh			
+614	Vientiane	Vientiane			
+615	Luang Prabang	Luang Prabang			
+616	Cao Bang	Cao Bang			
+617	Kutaraja	Kutaraja			
+618	Riau	Riau			
+619	Batak	Batak			
+620	Siak	Siak			
+621	Bengkulu	Bengkulu			
+622	Palembang	Palembang			
+623	Tulangbewang	Tulangbewang			
+624	Banten	Banten			
+625	Kawali	Kawali			
+626	Karta	Karta			
+627	Blambangan	Blambangan			
+628	Surabaya	Surabaya			
+629	Demak	Demak			
+630	Kalapa	Kalapa			
+631	Bali	Bali			
+632	Sumbawa	Sumbawa			
+633	Flores	Flores			
+634	Sumba	Sumba			
+635	West Timor	Timor Occidental			
+636	Brunei	Brunei			
+637	Api-Api	Api-Api			
+638	Kutai	Kutai			
+639	Banjar	Banjar			
+640	Sambas	Sambas			
+641	Makassar	Makassar			
+642	Kolaka	Kolaka			
+643	Poso	Poso			
+644	Manado	Manado			
+645	Buru	Buru			
+646	Ambon	Ambon			
+647	Ceram	Ceram			
+648	Halmahera	Halmahera			
+649	Ternate	Ternate			
+650	Tidore	Tidore			
+651	Sulu	Sulu			
+652	Maguindanao	Maguindanao			
+653	Lanao	Lanao			
+654	Samar	Samar			
+655	Palawan	Palawan			
+656	Manila	Manila			
+657	Ilocos	Ilocos			
+658	Cagayan	Cagayan			
+659	Lingga	Lingga			
+660	Sibsongbanna	Sibsongbanna			
+661	Dali	Dali			
+662	Yunnan	Yunnan			
+663	Guangnan	Guangnan			
+664	Lingyun	Lingyun			
+665	Shiuhing	Shiuhing			
+666	Kingchow	Kingchow			
+667	Canton	Canton			
+668	Macau	Macau			
+669	Fuzhou	Fuzhou			
+670	Ganzhou	Ganzhou			
+671	Changsha	Changsha			
+672	Wuling	Wuling			
+673	Zhenyuan	Zhenyuan			
+674	Guiyang	Guiyang			
+675	Umung	Umung			
+676	Shigatse	Shigatse			
+677	Lhasa	Lhasa			
+678	Tachienlu	Tachienlu			
+679	Chengdu	Chengdu			
+680	Chongqing	Chongqing			
+681	Yichang	Yichang			
+682	Wuchang	Wuchang			
+683	Nanchang	Nanchang			
+684	Hangzhou	Hangzhou			
+685	Yangzhou	Yangzhou			
+686	Anqing	Anqing			
+687	Nanyang	Nanyang			
+688	Kaifeng	Kaifeng			
+689	Hanzhong	Hanzhong			
+690	Qingzhou	Qingzhou			
+691	Jinan	Jinan			
+692	Huaiqing	Huaiqing			
+693	Taiyuan	Taiyuan			
+694	Pingyang	Pingyang			
+695	Hejian	Hejian			
+696	Baoding	Baoding			
+697	Datong	Datong			
+698	Ningxia	Ningxia			
+699	Lanzhou	Lanzhou			
+700	Xi'an	Xi'an			
+701	Ordos	Ordos			
+702	Hohhot	Hohhot			
+703	Chengde	Chengde			
+704	Ningyuan	Ningyuan			
+705	Gyegu	Gyegu			
+706	Tsaidam	Tsaidam			
+707	Yumen	Yumen			
+708	Zhangye	Zhangye			
+709	Alxa	Alxa			
+710	Hotan	Hotan			
+711	Qarqan	Qarqan			
+712	Aksu	Aksu			
+713	Bechbaliq	Bechbaliq			
+714	Hoboksar	Hoboksar			
+715	Urumqi	Urumqi			
+716	Tannu Uriankhai	Tannu Uriankhai			
+717	Kherlen	Kherlen			
+718	Kobdo	Kobdo			
+719	Uliastai	Uliastai			
+720	Dornogovi	Dornogovi			
+721	Setsen	Setsen			
+722	Jirem	Jirem			
+723	Xilin Gol	Xilin Gol			
+724	Hulunbuir	Hulunbuir			
+725	Cicigar	Cicigar			
+726	Shenyang	Shenyang			
+727	Aigun	Aigun			
+728	Tuwan	Tuwan			
+729	Bohori	Bohori			
+730	Girin	Girin			
+731	Ilan Hala	Ilan Hala			
+732	Hamheung	Hamheung			
+733	Hwangju	Hwangju			
+734	Wonju	Wonju			
+735	Hanseong	Hanseong			
+736	Sangju	Sangju			
+737	Jeonju	Jeonju			
+738	Sakam	Sakam			
+739	Kashgar	Kashgar			
+740	Chanderi	Chanderi			
+741	Cumana	Cumana			
+742	Angostura	Angostura			
+743	Essequibo	Essequibo			
+744	Demerara	Demerara			
+745	Paramaribo	Paramaribo			
+746	Cayenne	Caiena			
+747	Amapa	Amapa			
+748	Belem	Belém			
+749	Maranhao	Maranhão			
+750	Crato	Crato			
+751	Ceara	Ceará			
+752	Oeiras	Oeiras			
+753	Rio Grande	Rio Grande			
+754	Paraiba	Paraíba			
+755	Pernambuco	Pernambuco			
+756	Bahia	Bahia			
+757	Ilheus	Ilhéus			
+758	Goias	Goiás			
+759	Diamantina	Diamantina			
+760	Porto Seguro	Porto Seguro			
+761	Espirito Santo	Espírito Santo			
+762	Sao Tome	São Tomé			
+763	Rio de Janeiro	Rio de Janeiro			
+764	Santo Amaro	Santo Amaro			
+765	Minas Gerais	Minas Gerais			
+766	Sao Vicente	São Vicente			
+767	Ortelsburg	Ortelsburg			
+768	Guayra	Guayra			
+769	Curitiba	Curitiba			
+770	Braslaw	Braslaw			
+771	Vitebsk	Vitebsk			
+772	Uruguay	Uruguai			
+773	Banda Oriental	Banda Oriental			
+774	Al-Junaynah	Al-Junaynah			
+775	Asuncion	Asunción			
+776	Concepcion	Concepción			
+777	Corrientes	Corrientes			
+778	Rio de la Plata	Riu de la Plata	el		
+779	Tandil	Tandil			
+780	Candelaria	Candelaria			
+781	Puerto Deseado	Puerto Deseado			
+782	Tierra del Fuego	Terra del Foc			
+783	Kawesqar	Kawesqar			
+784	Huillimapu	Huillimapu			
+785	Pehuenmapu	Pehuenmapu			
+786	Carmen	Carmen			
+787	Picunmapu	Picunmapu			
+788	Angoche	Angoche			
+789	Mtetwa	Mtetwa			
+790	Chaco Austral	Chaco Austral			
+791	Catamarca	Catamarca			
+792	Copiapo	Copiapó			
+793	Iquique	Iquique			
+794	Jujuy	Jujuy			
+795	Potosi	Potosí			
+796	Arica	Arica			
+797	Oruro	Oruro			
+798	Mbwila	Mbwila			
+799	Chaco Boreal	Chaco Boreal			
+800	Chiquitos	Chiquitos			
+801	Cochabamba	Cochabamba			
+802	Chuquiabo	Chuquiabo			
+803	Moxos	Moxos			
+804	Puno	Puno			
+805	Arequipa	Arequipa			
+806	Nazca	Nazca			
+807	Abancay	Abancay			
+808	Cuzco	Cusco			
+809	Lima	Lima			
+810	Huancavelica	Huancavelica			
+811	Jauja	Jauja			
+812	Chanchan	Chanchan			
+813	Cajamarca	Cajamarca			
+814	Huanuco	Huánuco			
+815	Iquitos	Iquitos			
+816	Tumbes	Tumbes			
+817	Canari	Canari			
+818	Canelos	Canelos			
+819	Guayaquil	Guayaquil			
+820	Quito	Quito			
+821	Quijos	Quijos			
+822	Caqueta	Caqueta			
+823	Cauca	Cauca			
+824	Mariquita	Mariquita			
+825	Bogota	Bogotà			
+826	Choco	Choco			
+827	Antioquía	Antioquia			
+828	Cartagena	Cartagena			
+829	Magdalena	Magdalena			
+830	Maracaibo	Maracaibo			
+831	Caracas	Caracas			
+832	Tunja	Tunja			
+833	Algoa Bay	Algoa Bay			
+834	Barinas	Barinas			
+835	Panama	Panamà			
+836	Chorotega	Chorotega			
+837	Nicaragua	Nicaragua			
+838	Mosquito	Mosquito			
+839	Pipil	Pipil			
+840	Honduras	Hondures			
+841	Guatemala	Guatemala			
+842	Petén	Petén			
+843	Belize	Belize			
+844	Zapotec	Zapotec			
+845	Campeche	Campeche			
+846	Sotuta	Sotuta			
+847	Mixtec	Mixtec			
+848	Tohancapan	Tohancapan			
+849	Tlapanec	Tlapanec			
+850	Tlaxcala	Tlaxcala			
+851	Zacatula	Zacatula			
+852	Mexico	Mèxic			
+853	Tlapacoyan	Tlapacoyan			
+854	Sayultecas	Sayultecas			
+855	Totorames	Totorames			
+856	Zacatecas	Zacatecas			
+857	Guachichil	Guachichil			
+858	Tamaulipas	Tamaulipas			
+859	Sinaloa	Sinaloa			
+860	Tepehuan	Tepehuan			
+861	Coahuila	Coahuila			
+862	Yaqui	Yaqui			
+863	Suma	Suma			
+864	Concho	Concho			
+865	Cochimi	Cochimi			
+866	Guaycura	Guaycura			
+867	Cahuilla	Cahuilla			
+868	Chumash	Chumash			
+869	T'epot'aha'l	T'epot'aha'l			
+870	Lakisamni	Lakisamni			
+871	Pomo	Pomo			
+872	Shayuusht'la	Shayuusht'la			
+873	Tsinuk	Tsinuk			
+874	Duwamish	Duwamish			
+875	Tachii'nii	Tachii'nii			
+876	Yavapé	Yavapé			
+877	Akimel	Akimel			
+878	Kinyaa'aanii	Kinyaa'aanii			
+879	Ndee	Ndee			
+880	Ohkay Owingeh	Ohkay Owingeh			
+881	Tsiahahéndé	Tsiahahéndé			
+882	Mashgaléndé	Mashgaléndé			
+883	Tche Sha	Tche Sha			
+884	Auia	Auia			
+885	Gulgahén	Gulgahén			
+886	Waco	Waco			
+887	Tickanwa'tic	Tickanwa'tic			
+888	Atakapa	Atakapa			
+889	Nawunena	Nawunena			
+890	Tokinahyup	Tokinahyup			
+891	Naisha	Naisha			
+892	Kitkit'ish	Kitkit'ish			
+893	Chitimacha	Chitimacha			
+894	Kadohadacho	Kadohadacho			
+895	Anilco	Anilco			
+896	Yscani	Yscani			
+897	Casqui	Casqui			
+898	Kanza	Kanza			
+899	Pahatsi	Pahatsi			
+900	Tamaroa	Tamaroa			
+901	Tsawi	Tsawi			
+902	Niuachi	Niuachi			
+903	Omaha	Omaha			
+904	Wahpetunwan	Wahpetunwan			
+905	Baxoje	Baxoje			
+906	Ithanktunwanna	Ithanktunwanna			
+907	Ithanktunwan	Ithanktunwan			
+908	Sisithunwan	Sisithunwan			
+909	Nueta	Nueta			
+910	Makoua	Makoua			
+911	Baawitigon	Baawitigon			
+912	Osaakiiwaki	Osaakiiwaki			
+913	Meskwaki	Meskwaki			
+914	Ho-Chunk	Ho-Chunk			
+915	Peewareewa	Peewareewa			
+916	Kaskankaham	Kaskankaham			
+917	Cahokia	Cahokia			
+918	Chucalissa	Chucalissa			
+919	Chickasha	Chickasha			
+920	Chahta	Chahta			
+921	Ishenoca	Ishenoca			
+922	Tohome	Tohome			
+923	Pensacola	Pensacola			
+924	Tawasa	Tawasa			
+925	Coweta	Coweta			
+926	Ais	Ais			
+927	Timucua	Timucua			
+928	Apalachee	Apalachee			
+929	Guale	Guale			
+930	Kasihta	Kasihta			
+931	Coosa	Coosa			
+932	Issati	Issati			
+933	Iswa	Iswa			
+934	Tsoyaha	Tsoyaha			
+935	Chiaha	Chiaha			
+936	Joara	Joara			
+937	Skarureh	Skarureh			
+938	Pomouik	Pomouik			
+939	Kaskinampo	Kaskinampo			
+940	Kentahke	Kentahke			
+941	Ouasioto	Ouasioto			
+942	Waayaahtanwa	Waayaahtanwa			
+943	Atchakangouen	Atchakangouen			
+944	Bodewadmik	Bodewadmik			
+945	Michigami	Michigami			
+946	Hotaawathipi	Hotaawathipi			
+947	Kentaientonga	Kentaientonga			
+948	Ohiyo	Ohiyo			
+949	Monacan	Monacan			
+950	Chesapeake	Chesapeake			
+951	Kanawha	Kanawha			
+952	Powhatan	Powhatan			
+953	Piscataway	Piscataway			
+954	Erielhonan	Erielhonan			
+955	Conestoga	Conestoga			
+956	Sakimauchheening	Sakimauchheening			
+957	Wicontiss	Wicontiss			
+958	Onodowaga	Onodowaga			
+959	Gayogohono	Gayogohono			
+960	Onondagaono	Onondagaono			
+961	Onyo'taaka	Onyo'taaka			
+962	Unami	Unami			
+963	Machkantowoon	Machkantowoon			
+964	Kanien'kehaka	Kanien'kehaka			
+965	Manahahttan	Manahahttan			
+966	Nipmuc	Nipmuc			
+967	Narraganset	Narraganset			
+968	Massachusett	Massachusett			
+969	Mahican	Mahican			
+970	Amoskeag	Amoskeag			
+971	Penapawsket	Penapawsket			
+972	Nuu-chah-nulth	Nuu-chah-nulth			
+973	Skwxwu'mesh	Skwxwu'mesh			
+974	Kwakwaka'wakw	Kwakwaka'wakw			
+975	Tsimshian	Tsimshian			
+976	Tlingit	Tlingit			
+977	Yakutat	Yakutat			
+978	Kenai	Kenai			
+979	Unangan	Unangan			
+980	Beothuk	Beothuk			
+981	Taqamkuk	Taqamkuk			
+982	Onamagag	Onamagag			
+983	Epagoitgnag	Epagoitgnag			
+984	Segepenegatic	Segepenegatic			
+985	Petkootkweak	Petkootkweak			
+986	Gespegeogag	Gespegeogag			
+987	Onguhiara	Onguhiara			
+988	Attignawantan	Attignawantan			
+989	Attigneenongnahac	Attigneenongnahac			
+990	Maisouna	Maisouna			
+991	Odishkwaagamiig	Odishkwaagamiig			
+992	Weskarini	Weskarini			
+993	Osheaga	Osheaga			
+994	Stadacona	Stadacona			
+995	Toutouskak	Toutouskak			
+996	Oumamiwek	Oumamiwek			
+997	Chisedec	Chisedec			
+998	Qikirmiut	Qikirmiut			
+999	Cisasipi	Cisasipi			
+1000	Iyiyiw	Iyiyiw			
+1001	Marameg	Marameg			
+1002	Abitibi	Abitibi			
+1003	Mosoni	Mosoni			
+1004	Attawapiskat	Attawapiskat			
+1005	Mushkegowuk	Mushkegowuk			
+1006	Ahiarmiut	Ahiarmiut			
+1007	Gojijiwininiwag	Gojijiwininiwag			
+1008	Wiinibig	Wiinibig			
+1009	Atikaki	Atikaki			
+1010	Manitowapow	Manitowapow			
+1011	Kinougeoulini	Kinougeoulini			
+1012	Satsuma	Satsuma			
+1013	Cheongju	Cheongju			
+1014	Bungo	Bungo			
+1015	Okinawa	Okinawa			
+1016	Ha Tinh	Ha Tinh			
+1017	Suo	Suo			
+1018	Izumo	Izumo			
+1019	Harima	Harima			
+1020	Kyoto	Kyoto			
+1021	Settsu	Settsu			
+1022	Indrapura	Indrapura			
+1023	Echizen	Echizen			
+1024	Echigo	Echigo			
+1025	Uzen	Uzen			
+1026	Rikuzen	Rikuzen			
+1027	Hitachi	Hitachi			
+1028	Musashi	Musashi			
+1029	Kai	Kai			
+1030	Owari	Owari			
+1031	Kamikawa	Kamikawa			
+1032	The Kurils	Kurils			
+1033	Enchiw	Enchiw			
+1034	Kamchatka	Kamtxatka			
+1035	Penzhina	Penzhina			
+1036	Kolyma	Kolimà			
+1037	Omolon	Omolon			
+1038	Karalveyem	Karalveyem			
+1039	Verkhoyansk	Verkhoyansk			
+1040	Suntar Khayata	Suntar Khayata			
+1041	Gizhiga	Gizhiga			
+1042	Sakha	Sakha			
+1043	Okhotsk	Okhotsk			
+1044	Tauisk	Tauisk			
+1045	Yakut	Iakut			
+1046	Maya	Maya			
+1047	Jugjur	Jugjur			
+1048	Miyoo Gasan	Miyoo Gasan			
+1049	Haiilanboo	Haiilanboo			
+1050	Tyr	Tyr			
+1051	Aldan	Aldan			
+1052	Stanovoy	Stanovoy			
+1053	Hinggan	Hinggan			
+1054	Mukhtuya	Mukhtuya			
+1055	Kirenga	Kirenga			
+1056	Barguzin	Barguzin			
+1057	Ude	Ude			
+1058	Onan Gol	Onan Gol			
+1059	East Tunguska	Tunguska Oriental			
+1060	Irkutsk	Irkutsk			
+1061	West Tunguska	Tunguska Occidental			
+1062	Angara	Angara			
+1063	Sayan	Sayan			
+1064	Tomsk	Tomsk			
+1065	Kuznetsk	Kuznetsk			
+1066	Altai Uriankhai	Altai Uriankhai			
+1067	Turukhan	Turukhan			
+1068	Ket	Ket			
+1069	Surgut	Surgut			
+1070	Narim	Narim			
+1071	Irtesh	Irtesh			
+1072	Obdorsk	Obdorsk			
+1073	Berezov	Berezov			
+1074	Sibir	Sibir			
+1075	Tyumen	Tiumen			
+1076	Kurgan	Kurgan			
+1077	Solikamsk	Solikamsk			
+1078	Tura	Tura			
+1079	Viatka	Viatka			
+1080	Pelym	Pelym			
+1081	Simbirsk	Simbirsk			
+1082	Kazan	Kazan			
+1083	Vetluga	Vetluga			
+1084	Wadjuk	Wadjuk			
+1085	Paredarerme	Paredarerme			
+1086	Kaurna	Kaurna			
+1087	Wurundjeri	Wurundjeri			
+1088	Wergaia	Wergaia			
+1089	Wiradjuri	Wiradjuri			
+1090	Eora	Eora			
+1091	Kamilaroi	Kamilaroi			
+1092	Gubbi-Gubbi	Gubbi-Gubbi			
+1093	Yagalingu	Yagalingu			
+1094	Turrbal	Turrbal			
+1095	Falklands	Malvines			
+1096	Cape Verde	Cap Verd	el		
+1097	Fernando Po	Fernando Po			
+1098	St. Helena	Santa Helena			
+1099	Socotra	Socotora			
+1100	Mahe	Mahe			
+1101	Hollhavai	Hollhavai			
+1102	Mauritius	Maurici			
+1103	Île Bourbon	Illa Borbó	l'		⚠ nom històric de la Reunió
+1104	Eiriksfjord	Eiriksfjord			
+1105	Vestbygden	Vestbygden			
+1106	Te Tai Tokerau	Te Tai Tokerau			
+1107	Taranaki	Taranaki			
+1108	Te Moana a Toi	Te Moana a Toi			
+1109	Timaru	Timaru			
+1110	Agadir	Agadir			
+1111	Arguin	Arguin			
+1112	Trarza	Trarza			
+1113	Cayor	Cayor			
+1114	Gabu	Gabu			
+1115	Brakna	Brakna			
+1116	Wolof	Wolof			
+1117	Futa Jallon	Futa Jallon			
+1118	Sierra Leone	Sierra Leone			
+1119	Grain Coast	Costa dels Grans	la		
+1120	Bambuk	Bambuk			
+1121	Bure	Bure			
+1122	Bagoe	Bagoe			
+1123	Segu	Segu			
+1124	Joma	Joma			
+1125	Kong	Kong			
+1126	Ivory Coast	Costa d'Ivori	la		
+1127	Tuat	Tuat			
+1128	Taudeni	Taudeni			
+1129	Azawad	Azawad			
+1130	Tadmekka	Tadmekka			
+1131	Massina	Massina			
+1132	Timbuktu	Tombuctú			
+1133	Gao	Gao			
+1134	Jenne	Jenne			
+1135	Yatenga	Yatenga			
+1136	Gurma	Gurma			
+1137	Wagadugu	Wagadugu			
+1138	Kumasi	Kumasi			
+1139	Gold Coast	Costa d'Or	la		
+1140	Abomey	Abomey			
+1141	Whydah	Whydah			
+1142	Dendi	Dendi			
+1143	Borgu	Borgu			
+1144	Oyo	Oyo			
+1145	Nupe	Nupe			
+1146	Ife	Ife			
+1147	Benin	Benín			
+1148	Gobir	Gobir			
+1149	Katsina	Katsina			
+1150	Zamfara	Zamfara			
+1151	Bonny	Bonny			
+1152	Idah	Idah			
+1153	Pindinga	Pindinga			
+1154	Zazzau	Zazzau			
+1155	Kano	Kano			
+1156	Damagaram	Damagaram			
+1157	Borno	Borno			
+1158	Kanem	Kanem			
+1159	Bagirmi	Bagirmi			
+1160	Mandara	Mandara			
+1161	Bauchi	Bauchi			
+1162	Wukari	Wukari			
+1163	Calabar	Calabar			
+1164	Cameroon	Camerun			
+1165	Gabon	Gabon			
+1166	Loango	Loango			
+1167	Luanda	Luanda			
+1168	Mbamba	Mbamba			
+1169	Anziku	Anziku			
+1170	Mpemba	Mpemba			
+1171	Ndongo	Ndongo			
+1172	Benguela	Benguela			
+1173	Namibia	Namíbia			
+1174	Ezorongondo	Ezorongondo			
+1175	Lesser Namaqualand	Petit Namaqualand			
+1176	Roggeveld	Roggeveld			
+1177	Cape	Cap			
+1178	Great Karoo	Gran Karoo			
+1179	Swellendam	Swellendam			
+1180	Xhosa	Xhosa			
+1181	Natal	Natal			
+1182	Matsolo	Matsolo			
+1183	Inhambane	Inhambane			
+1184	Zimbabwe	Zimbàbue			
+1185	Butua	Butua			
+1186	Sofala	Sofala			
+1187	Sena	Sena			
+1188	Massapa	Massapa			
+1189	Shangwe	Shangwe			
+1190	Zumbo	Zumbo			
+1191	Tete	Tete			
+1192	Quelimane	Quelimane			
+1193	Menabe	Menabe			
+1194	Besalampy	Besalampy			
+1195	Mozambique	Moçambic			
+1196	Kilwa	Kilwa			
+1197	Mzizima	Mzizima			
+1198	Lindi	Lindi			
+1199	Bagamoyo	Bagamoyo			
+1200	Tanga	Tanga			
+1201	Zanzibar	Zanzíbar			
+1202	Mombasa	Mombasa			
+1203	Malindi	Malindi			
+1204	Lamu	Lamu			
+1205	Mogadishu	Mogadiscio			
+1206	Qardho	Qardho			
+1207	Ogaden	Ogaden			
+1208	Degehabur	Degehabur			
+1209	Berbera	Berbera			
+1210	Dawaro	Dawaro			
+1211	Harer	Harer			
+1212	Zeila	Zeila			
+1213	Shewa	Shewa			
+1214	Wollo	Wollo			
+1215	Tajura	Tajura			
+1216	Tegali	Tegali			
+1217	Fazughli	Fazughli			
+1218	Sidamo	Sidamo			
+1219	Darfur	Darfur			
+1220	Bayuda	Bayuda			
+1221	El Obeid	El Obeid			
+1222	Gezira	Gezira			
+1223	Gojjam	Gojjam			
+1224	Gonder	Gonder			
+1225	Butana	Butana			
+1226	Beja	Beja			
+1227	Aksum	Axum			
+1228	Dongola	Dongola			
+1229	Berber	Berber			
+1230	Massawa	Massawa			
+1231	Aswan	Assuan			
+1232	Suakin	Suakin			
+1233	Kharga	Kharga			
+1234	Qasr Ibrim	Qasr Ibrim			
+1235	Guam	Guam			
+1236	Rabaul	Rabaul			
+1237	Hanuabada	Hanuabada			
+1238	Solomon Islands	Illes Salomó	les		
+1239	Vanuatu	Vanuatu			
+1240	Hawaii	Hawaii			
+1241	Kiribati	Kiribati			
+1242	Viti Levu	Viti Levu			
+1243	Samoa	Samoa			
+1244	Tuamotu Islands	Illes Tuamotu	les		
+1245	Manokwari	Manokwari			
+1246	Ata Whenua	Ata Whenua			
+1247	Corsica	Còrsega			
+1248	Maldives	Maldives			
+1249	Yola	Yola			
+1250	Vänern	Vänern			
+1251	Vättern	Vättern			
+1252	Gulf of Bothnia	Golf de Bòtnia	el		
+1253	Eastern Sea of Åland	Mar Oriental d'Åland	la		
+1254	Gulf of Finland	Golf de Finlàndia	el		
+1255	Western Baltic Sea	Mar Bàltica Occidental	la		
+1256	Gulf of Riga	Golf de Riga	el		
+1257	Southern Baltic Sea	Mar Bàltica Meridional	la		
+1258	Öresund	Öresund			
+1259	Kattegat	Kattegat			
+1260	Lake Peipus	Llac Peipus	el		
+1261	Ladoga	Làdoga			
+1262	Onega	Onega			
+1263	Barents Sea	Mar de Barents	la		
+1264	Lofoten Sea	Mar de les Lofoten	la		
+1265	Northern Norwegian Sea	Mar de Noruega Septentrional	la		
+1266	Southern Norwegian Sea	Mar de Noruega Meridional	la		
+1267	Skagerrak	Skagerrak			
+1268	Helgoland Bight	Badia d'Helgoland	la		
+1269	Coast of Holland	Costa d'Holanda	la		
+1270	Dogger Bank	Dogger Bank			
+1271	Straits of Dover	Pas de Calais	el		
+1272	The Channel	Canal de la Mànega	el		
+1273	Taveta	Taveta			
+1274	Coast of Brittany	Costa de Bretanya	la		
+1275	Quiberon Bay	Badia de Quiberon	la		
+1276	Cote D'Argent	Costa d'Argent	la		
+1277	Bay of Biscay	Golf de Biscaia	el		
+1278	Cantabrian Sea	Mar Cantàbrica	la		
+1279	Tyne	Tyne			
+1280	Firth of Forth	Fiord de Forth	el		
+1281	Coast of Shetland	Costa de les Shetland	la		
+1282	Moray Firth	Fiord de Moray	el		
+1283	North Channel	Canal del Nord	el		
+1284	Irish Sea	Mar d'Irlanda	la		
+1285	St. George's Channel	Canal de Sant Jordi	el		
+1286	Donegal Bay	Badia de Donegal	la		
+1287	Dingle Bay	Badia de Dingle	la		
+1288	Celtic Sea	Mar Cèltica	la		
+1289	Western Approaches	Aproximacions Occidentals	les		
+1290	Cape Finisterre	Cap Finisterre	el		
+1291	Lusitanian Sea	Mar Lusitana	la		
+1292	Gulf of Cadiz	Golf de Cadis	el		
+1293	Straits of Gibraltar	Estret de Gibraltar	l'		
+1294	Gulf of Almeria	Golf d'Almeria	el		
+1295	Gulf of Valencia	Golf de València	el		
+1296	Gulf of Lion	Golf de Lleó	el		
+1297	Cote D'Azur	Costa Blava	la		
+1298	Ligurian Sea	Mar Lígur	la		
+1299	Coast of the Faeroes	Costa de les Fèroe	la		
+1300	Western Mediterranean	Mediterrani Occidental	el		
+1301	Barbary Coast	Costa de Barbaria	la		
+1302	Cape Bon	Cap Bon	el		
+1303	Tyrrenean Sea	Mar Tirrena	la		
+1304	Bay of Napoli	Badia de Nàpols	la		
+1305	Gulf of Gabes	Golf de Gabès	el		
+1306	Sao Tome	São Tomé			
+1307	Straits of Messina	Estret de Messina	l'		
+1308	Gulf of Venice	Golf de Venècia	el		
+1309	Adriatic Sea	Mar Adriàtica	la		
+1310	Straits of Otranto	Canal d'Òtranto	el		
+1311	Gulf of Taranto	Golf de Tàrent	el		
+1312	Ionian Sea	Mar Jònica	la		
+1313	Gulf of Sirte	Golf de Sirte	el		
+1314	Gulf of Bomba	Golf de Bomba	el		
+1315	Bay of Alexandria	Badia d'Alexandria	la		
+1316	Palestinian Coast	Costa de Palestina	la		
+1317	Gulf of Cyprus	Golf de Xipre	el		
+1318	Spiš	Spiš			
+1319	Aegean Sea	Mar Egea	la		
+1320	Sea of Marmara	Mar de Màrmara	la		
+1321	Gulf of Varna	Golf de Varna	el		
+1322	Gulf of Odessa	Golf d'Odessa	el		
+1323	Sea of Azov	Mar d'Azov	la		
+1324	Eastern Black Sea	Mar Negra Oriental	la		
+1325	Lake Balaton	Llac Balaton	el		
+1326	Caspian Sea	Mar Càspia	la		
+1327	Aral Sea	Mar d'Aral	la		
+1328	Gulf of Suez	Golf de Suez	el		
+1329	Red Sea	Mar Roja	la		
+1330	Bab el Mandeb	Bab el-Mandeb			
+1331	Gulf of Aden	Golf d'Aden	el		
+1332	Gulf of Oman	Golf d'Oman	el		
+1333	Gulf of Masirah	Golf de Masirah	el		
+1334	Straits of Hormuz	Estret d'Ormuz	l'		
+1335	Persian Gulf	Golf Pèrsic	el		
+1336	Coast of Makran	Costa de Makran	la		
+1337	Coast of Gujarat	Costa de Gujarat	la		
+1338	Konkan Coast	Costa de Konkan	la		
+1339	Malabar Coast	Costa de Malabar	la		
+1340	Comorin Cape	Cap Comorí	el		
+1341	Coast of Coromandel	Costa de Coromandel	la		
+1342	Coast of Orissa	Costa d'Orissa	la		
+1343	Ganges Delta	Delta del Ganges	el		
+1344	Arakan Coast	Costa d'Arakan	la		
+1345	Irrawady Delta	Delta de l'Irauadi	el		
+1346	Eastern Bay of Bengal	Badia de Bengala Oriental	la		
+1347	Andaman Sea	Mar d'Andaman	la		
+1348	Straits of Malacca	Estret de Malacca	l'		
+1349	Nicobar Islands	Illes Nicobar	les		
+1350	Coast of Aceh	Costa d'Aceh	la		
+1351	Coast of Sumatra	Costa de Sumatra	la		
+1352	Sunda Strait	Estret de la Sonda	l'		
+1353	Coast of Java	Costa de Java	la		
+1354	Coast of Blambangan	Costa de Blambangan	la		
+1355	Straits of Lombok	Estret de Lombok	l'		
+1356	Sawu Sea	Mar de Savu	la		
+1357	Flores Sea	Mar de Flores	la		
+1358	Java Sea	Mar de Java	la		
+1359	Straits of Makassar	Estret de Makassar	l'		
+1360	Karimata Strait	Estret de Karimata	l'		
+1361	Straits of Johor	Estret de Johor	l'		
+1362	Malayan Sea	Mar Malaia	la		
+1363	Coast of Sarawak	Costa de Sarawak	la		
+1364	Cape Cà Mau	Cap Cà Mau	el		
+1365	Gulf of Siam	Golf de Siam	el		
+1366	Cam Ranh Bay	Badia de Cam Ranh	la		
+1367	South China Sea	Mar de la Xina Meridional	la		
+1368	Palawan Passage	Pas de Palawan	el		
+1369	Coast of Annam	Costa d'Annam	la		
+1370	Gulf of Tonkin	Golf de Tonquín	el		
+1371	Guangzhou Bay	Badia de Guangzhou	la		
+1372	Taiwan Strait	Estret de Taiwan	l'		
+1373	Yang Tse Delta	Delta del Iang-tsé	el		
+1374	Eastern Yellow Sea	Mar Groga Oriental	la		
+1375	Korea Bay	Badia de Corea	la		
+1376	South Korean Sea	Mar de Corea Meridional	la		
+1377	North Korean Sea	Mar de Corea Septentrional	la		
+1378	Olga Bay	Badia d'Olga	la		
+1379	Tatar Straits	Estret de Tartària	l'		
+1380	Shantar Islands	Illes Xantar	les		
+1381	Tauisk Bay	Badia de Tauisk	la		
+1382	Bay of Komenskoie	Badia de Komenskoie	la		
+1383	Coast of Kamchatka	Costa de Kamtxatka	la		
+1384	Okhotsk Sea	Mar d'Okhotsk	la		
+1385	Coast of Sakhalin	Costa de Sakhalín	la		
+1386	Soya Strait	Estret de Soya	l'		
+1387	Tsugaru Strait	Estret de Tsugaru	l'		
+1388	Yamato Basin	Conca de Yamato	la		
+1389	Amakusa Sea	Mar d'Amakusa	la		
+1390	Seto Inland Sea	Mar Interior de Seto	la		
+1391	Kii Channel	Canal de Kii	el		
+1392	Ryukyu Islands	Illes Ryukyu	les		
+1393	Luzon Strait	Estret de Luzon	l'		
+1394	Paracel Islands	Illes Paracel	les		
+1395	Manila Bay	Badia de Manila	la		
+1396	Coast of Luzon	Costa de Luzon	la		
+1397	Visayan Sea	Mar de Visayas	la		
+1398	Sulu Sea	Mar de Sulu	la		
+1399	Sea of Celebes	Mar de Cèlebes	la		
+1400	Halmaheran Sea	Mar d'Halmahera	la		
+1401	Banda Sea	Mar de Banda	la		
+1402	Mindanao Coast	Costa de Mindanao	la		
+1403	Palau Islands	Illes Palau	les		
+1404	Cenderawasih Bay	Badia de Cenderawasih	la		
+1405	Vitiaz Strait	Estret de Vitiaz	l'		
+1406	Trobrian Islands	Illes Trobriand	les		
+1407	Torres Strait	Estret de Torres	l'		
+1408	Timor Sea	Mar de Timor	la		
+1409	Arafura Sea	Mar d'Arafura	la		
+1410	Gulf of Carpentaria	Golf de Carpentària	el		
+1411	Great Barrier Reef	Gran Barrera de Corall			
+1412	Coral Sea	Mar del Corall	la		
+1413	Flinders Bay	Badia de Flinders	la		
+1414	Bass Strait	Estret de Bass	l'		
+1415	Kangaroo Island	Illa Cangur	l'		
+1416	Great Australian Bight	Gran Badia Australiana			
+1417	Cape Leeuwin	Cap Leeuwin	el		
+1418	Houtman Abrolhos	Houtman Abrolhos			
+1419	Northwest Cape	Cap Nord-oest	el		
+1420	Roebuck Bay	Badia de Roebuck	la		
+1421	Western Tasman Sea	Mar de Tasmània Occidental	la		
+1422	Macquarie Harbour	Port Macquarie			
+1423	Cook Strait	Estret de Cook	l'		
+1424	Lord Howe Island	Illa de Lord Howe	l'		
+1425	Northern Tasman Sea	Mar de Tasmània Septentrional	la		
+1426	Coast of New Zealand	Costa de Nova Zelanda	la		
+1427	Southern Tasman Sea	Mar de Tasmània Meridional	la		
+1428	Canterbury Bight	Badia de Canterbury	la		
+1429	New Caledonian Sea	Mar de Nova Caledònia	la		
+1430	Vanuatu Islands	Illes de Vanuatu	les		
+1431	Fiji Basin	Conca de Fiji	la		
+1432	Solomon Sea	Mar de Salomó	la		
+1433	Tuvalu Islands	Illes Tuvalu	les		
+1434	Melanesia Sea	Mar de Melanèsia	la		
+1435	Mariana Islands	Illes Mariannes	les		
+1436	Philippine Sea	Mar de les Filipines	la		
+1437	Northern Philippine Sea	Mar de les Filipines Septentrional	la		
+1438	Volcano Islands	Illes Volcà	les		
+1439	Izu Islands	Illes Izu	les		
+1440	Sanriku Coast	Costa de Sanriku	la		
+1441	Kuril Islands	Illes Kurils	les		
+1442	Kamchatka Trench	Fossa de Kamtxatka	la		
+1443	Ulakhan Fault	Falla d'Ulakhan	la		
+1444	Bay of Anadyr	Badia d'Anadir	la		
+1445	Bering Sea	Mar de Bering	la		
+1446	Horn of Africa	Banya d'Àfrica	la		⚠ traducció literal de Horn of Africa
+1447	Coast of Pepper	Costa de la Pebre	la		
+1448	Zanzibar Strait	Estret de Zanzíbar	l'		
+1449	Mozambique Channel	Canal de Moçambic	el		
+1450	Diego Suarez Bay	Badia de Diego Suárez	la		
+1451	Southwestern Arabian Sea	Mar d'Aràbia Sud-occidental	la		
+1452	Northern Arabian Sea	Mar d'Aràbia Septentrional	la		
+1453	The Seychelles	Seychelles			
+1454	Coast of Tamatave	Costa de Tamatave	la		
+1455	The Mascareignes	Mascarenyes			
+1456	Coast of Menabe	Costa de Menabe	la		
+1457	Coast of Sofala	Costa de Sofala	la		
+1458	Coast of Natal	Costa de Natal	la		
+1459	Coast of Ciskei	Costa de Ciskei	la		
+1460	Cape of Good Hope	Cap de Bona Esperança	el		
+1461	Coast of Namibia	Costa de Namíbia	la		
+1462	Coast of Angola	Costa d'Angola	la		
+1463	Gulf of Kongo	Golf del Congo	el		
+1464	Coast of Cameroon	Costa del Camerun	la		
+1465	Gulf of Guinea	Golf de Guinea	el		
+1466	Ivory Coast	Costa d'Ivori	la		
+1467	Grain Coast	Costa dels Grans	la		
+1468	Coast of Gambia	Costa de Gàmbia	la		
+1469	Bay of Arguin	Badia d'Arguin	la		
+1470	Mauretanian Coast	Costa de Mauritània	la		
+1471	Cape Bojador	Cap Bojador	el		
+1472	Coast of Morocco	Costa del Marroc	la		
+1473	Jan Mayen Sea	Mar de Jan Mayen	la		
+1474	Spitzberg Sea	Mar de Spitsbergen	la		
+1475	Icelandic Sea	Mar d'Islàndia	la		
+1476	Eastern Coast of Iceland	Costa Oriental d'Islàndia	la		
+1477	Western Coast of Iceland	Costa Occidental d'Islàndia	la		
+1478	Northeastern Atlantic	Atlàntic Nord-oriental	l'		
+1479	Rockall	Rockall			
+1480	Denmark Strait	Estret de Dinamarca	l'		
+1481	Eastern Coast of Greenland	Costa Oriental de Groenlàndia	la		
+1482	Western Coast of Greenland	Costa Occidental de Groenlàndia	la		
+1483	Labrador Strait	Estret del Labrador	l'		
+1484	Baffin Bay	Badia de Baffin	la		
+1485	Hudson Straits	Estret de Hudson	l'		
+1486	James Bay	Badia de James	la		
+1487	Western Hudson Bay	Badia de Hudson Occidental	la		
+1488	Eastern Hudson Bay	Badia de Hudson Oriental	la		
+1489	Foxe Basin	Conca de Foxe	la		
+1490	Gulf of St. Lawrence	Golf de Sant Llorenç	el		
+1491	Cabot Strait	Estret de Cabot	l'		
+1492	Bay of Fundy	Badia de Fundy	la		
+1493	Strait of Belle Isle	Estret de Belle Isle	l'		
+1494	Fortune Bay	Badia de Fortune	la		
+1495	Notre Dame Bay	Badia de Notre Dame	la		
+1496	Labrador Sea	Mar del Labrador	la		
+1497	Greenland Sea	Mar de Groenlàndia	la		
+1498	Northern Atlantic	Atlàntic Nord	l'		
+1499	Massachusetts Bay	Badia de Massachusetts	la		
+1500	Delaware Bay	Badia de Delaware	la		
+1501	Cape Hatteras	Cap Hatteras	el		
+1502	Sea Islands	Sea Islands			
+1503	Bahama Banks	Bancs de les Bahames	els		
+1504	Western Sargasso Sea	Mar dels Sargassos Occidental	la		
+1505	Florida Straits	Estret de Florida	l'		
+1506	Apalachee Bay	Badia d'Apalachee	la		
+1507	Mobile Bay	Badia de Mobile	la		
+1508	Galveston Bay	Badia de Galveston	la		
+1509	Tampico Bay	Badia de Tampico	la		
+1510	Bay of Campeche	Badia de Campeche	la		
+1511	Gulf of Mexico	Golf de Mèxic	el		
+1512	Yucatan Channel	Canal del Yucatán	el		
+1513	Gulf of Honduras	Golf d'Hondures	el		
+1514	Mosquito Coast	Costa dels Mosquits	la		
+1515	Gulf of Darien	Golf del Darién	el		
+1516	Jamaica Channel	Canal de Jamaica	el		
+1517	Central Caribbean	Carib Central	el		
+1518	Northwestern Caribbean	Carib Nord-occidental	el		
+1519	Venezuelan Gulf	Golf de Veneçuela	el		
+1520	Venezuelan Sea	Mar de Veneçuela	la		
+1521	Eastern Caribbean	Carib Oriental	el		
+1522	Windward Islands	Illes de Sobrevent	les		
+1523	Lesser Antilles	Petites Antilles	les		
+1524	Turks & Caicos Sea	Mar de Turks i Caicos	la		
+1525	Bahama Channel	Canal de les Bahames	el		
+1526	Mona Passage	Pas de la Mona	el		
+1527	Guyana Coast	Costa de la Guaiana	la		
+1528	Cape Orange	Cap Orange	el		
+1529	Amazonas Gulf	Golf de l'Amazones	el		
+1530	Coast of Brazil	Costa del Brasil	la		
+1531	Coast of Pernambuco	Costa de Pernambuco	la		
+1532	Coast of Porto Seguro	Costa de Porto Seguro	la		
+1533	Costa Verde	Costa Verda	la		
+1534	Coast of Santa Catarina	Costa de Santa Catarina	la		
+1535	Patos Lagoon	Llacuna dels Patos	la		
+1536	La Plata River	Riu de la Plata	el		
+1537	Northern Coast of Patagonia	Costa Septentrional de la Patagònia	la		
+1538	Southern Coast of Patagonia	Costa Meridional de la Patagònia	la		
+1539	Magellan Strait	Estret de Magalhães	l'		
+1540	Gulf of Penas	Golf de Penas	el		
+1541	Coast of Chile	Costa de Xile	la		
+1542	Atacama Coast	Costa d'Atacama	la		
+1543	Coast of Antofagasta	Costa d'Antofagasta	la		
+1544	Arica Bend	Colze d'Arica	el		
+1545	Coast of Peru	Costa del Perú	la		
+1546	Gulf of Guayaquil	Golf de Guayaquil	el		
+1547	Coast of Ecuador	Costa de l'Equador	la		
+1548	Gulf of Panama	Golf de Panamà	el		
+1549	Costa Rica	Costa Rica	la		
+1550	Gulf of Tehuantepec	Golf de Tehuantepec	el		
+1551	Manzanillo Bay	Badia de Manzanillo	la		
+1552	Mazatlan Bay	Badia de Mazatlán	la		
+1553	Gulf of California	Golf de Califòrnia	el		
+1554	Cape San Lucas	Cap San Lucas	el		
+1555	Gulf of Catalina	Golf de Santa Catalina	el		
+1556	San Francisco Bay	Badia de San Francisco	la		
+1557	Cape Blanco	Cap Blanco	el		
+1558	Salish Sea	Mar Salish	la		
+1559	Hecate Strait	Estret d'Hecate	l'		
+1560	Glacier Bay	Badia de les Glaceres	la		
+1561	Cook Inlet	Cala de Cook	la		
+1562	Norton Sound	Estret de Norton	l'		
+1563	Hatton Bank	Banc de Hatton	el		
+1564	Eastern Gibbs Fracture	Fractura de Gibbs Oriental	la		
+1565	Western Gibbs Fracture	Fractura de Gibbs Occidental	la		
+1566	Iberian Shelf	Plataforma Ibèrica	la		
+1567	Sea of Azores	Mar de les Açores	la		
+1568	Corner Seamounts	Muntanyes submarines Corner	les		
+1569	Sable Island Bank	Banc de l'Illa Sable	el		
+1570	New England Seamounts	Muntanyes submarines de Nova Anglaterra	les		
+1571	Blake Plateau	Altiplà de Blake	l'		
+1572	West Bermuda Sea	Mar de les Bermudes Occidental	la		
+1573	East Bermuda Sea	Mar de les Bermudes Oriental	la		
+1574	Antilles Current	Corrent de les Antilles	el		
+1575	Northern Guiana Basin	Conca de la Guaiana Septentrional	la		
+1576	Guiana Basin	Conca de la Guaiana	la		
+1577	Southern Guiana Basin	Conca de la Guaiana Meridional	la		
+1578	Canary Approach	Aproximació a les Canàries	l'		
+1579	Cape Verde Approach	Aproximació a Cap Verd	l'		
+1580	Central North Atlantic	Atlàntic Nord Central	l'		
+1581	North Equatorial Current	Corrent Equatorial del Nord	el		
+1582	Northeast Sargasso Sea	Mar dels Sargassos Nord-oriental	la		
+1583	Southeast Sargasso Sea	Mar dels Sargassos Sud-oriental	la		
+1584	Romanche Gap	Fossa de la Romanche	la		
+1585	East Guinea Basin	Conca de Guinea Oriental	la		
+1586	West Guinea Basin	Conca de Guinea Occidental	la		
+1587	Coast of Falklands	Costa de les Malvines	la		
+1588	Scotia Basin	Conca de Scotia	la		
+1589	Brazil-Malvinas Confluence Zone	Confluència Brasil-Malvines	la		
+1590	South Brazil Current	Corrent del Brasil Meridional	el		
+1591	Brazil Current	Corrent del Brasil	el		
+1592	Rio Grande Rise	Elevació de Rio Grande	l'		
+1593	Argentine Basin	Conca Argentina	la		
+1594	South Orkney Islands	Illes Orcades del Sud	les		
+1595	East of Magellans	Est de Magalhães	l'		
+1596	North Brazil Current	Corrent del Brasil Septentrional	el		
+1597	South Equatorial Current	Corrent Equatorial del Sud	el		
+1598	Central South Atlantic	Atlàntic Sud Central	l'		
+1599	Brazil Basin	Conca del Brasil	la		
+1600	Saint Helena Island	Illa de Santa Helena	l'		
+1601	Benguela Current	Corrent de Benguela	el		
+1602	Walvis Ridge	Dorsal de Walvis	la		
+1603	Bouvet Island	Illa Bouvet	l'		
+1604	Tristan da Cunha Islands	Illes Tristan da Cunha	les		
+1605	Southern Mid-Atlantic Ridget	Dorsal Mesoatlàntica Meridional	la		
+1606	South Atlantic Current	Corrent de l'Atlàntic Sud	el		
+1607	South Sandwich Islands	Illes Sandwich del Sud	les		
+1608	South Atlantic	Atlàntic Sud	l'		
+1609	South Atlantic Roaring Forties	Quaranta Rugents de l'Atlàntic Sud	els		⚠ calc de Roaring Forties
+1610	Denmark Sea	Mar de Dinamarca	la		
+1611	Northern Bay of Bengal	Badia de Bengala Septentrional	la		
+1612	Western Bay of Bengal	Badia de Bengala Occidental	la		
+1613	Southern Bay of Bengal	Badia de Bengala Meridional	la		
+1614	Ceylon Sea	Mar de Ceilan	la		
+1615	Southeastern Arabian Sea	Mar d'Aràbia Sud-oriental	la		
+1616	North Indian Ocean	Índic Nord	l'		
+1617	Mascarene Plateau	Altiplà de les Mascarenyes	l'		
+1618	Western Equatorial Counter Current	Contracorrent Equatorial Occidental	el		
+1619	Coast of Maldives	Costa de les Maldives	la		
+1620	Central Indian Ocean	Índic Central	l'		
+1621	Chagos Archipelago	Arxipèlag de Chagos	l'		
+1622	Eastern Equatorial Counter Current	Contracorrent Equatorial Oriental	el		
+1623	Ninetyeast Ridge	Dorsal del Noranta Est	la		
+1624	Northeast Indian Ocean	Índic Nord-oriental	l'		
+1625	Marion Island	Illa Marion	l'		
+1626	Natal Basin	Conca de Natal	la		
+1627	Taolagnaro Bay	Badia de Taolagnaro	la		
+1628	Crozet Islands	Illes Crozet	les		
+1629	Crozet Basin	Conca de Crozet	la		
+1630	Madagascar Basin	Conca de Madagascar	la		
+1631	Kerguelen Islands	Illes Kerguelen	les		
+1632	Heard and McDonald Islands	Illes Heard i McDonald	les		
+1633	South Indian Ocean	Índic Sud	l'		
+1634	Indian Ocean Raging Fifties	Cinquanta Furiosos de l'Índic	els		⚠ calc de Furious Fifties
+1635	South Australian Basin	Conca Sud-australiana	la		
+1636	Southwestern Indian Ridge	Dorsal Índica Sud-occidental	la		
+1637	St Paul and Amsterdam Islands	Illes Saint-Paul i Amsterdam	les		
+1638	Southeastern Indian Ridge	Dorsal Índica Sud-oriental	la		
+1639	Naturaliste Plateau	Altiplà del Naturaliste	l'		
+1640	Broken Ridge	Dorsal Trencada	la		
+1641	East Indian Ocean	Índic Oriental	l'		
+1642	Zenith Plateau	Altiplà de Zenith	l'		
+1643	Wallaby Plateau	Altiplà de Wallaby	l'		
+1644	West Australian Basin	Conca d'Austràlia Occidental	la		
+1645	Eastern Indian Ocean South Equatorial Current	Corrent Equatorial del Sud de l'Índic Oriental	el		
+1646	Indian Ocean South Equatorial Current	Corrent Equatorial del Sud de l'Índic	el		
+1647	Western Indian Ocean South Equatorial Current	Corrent Equatorial del Sud de l'Índic Occidental	el		
+1648	Lake Chad	Llac Txad	el		
+1649	Lake Victoria	Llac Victòria	el		
+1650	Lake Tanganyika	Llac Tanganyika	el		
+1651	Lake Malawi	Llac Malawi	el		
+1652	White Sea	Mar Blanca	la		
+1653	Lake Balchasj	Llac Balkhaix	el		
+1654	Lake Bajkal	Llac Baikal	el		
+1655	Poyang Lake	Llac Poyang	el		
+1656	Lake Titicaca	Llac Titicaca	el		
+1657	Lake Nicaragua	Llac de Nicaragua	el		
+1658	Lake Okeechobee	Llac Okeechobee	el		
+1659	Lake Ontario	Llac Ontàrio	el		
+1660	Lake Erie	Llac Erie	el		
+1661	Lake Huron	Llac Huron	el		
+1662	Lake Michigan	Llac Michigan	el		
+1663	Lake Superior	Llac Superior	el		
+1664	Lake Nipigon	Llac Nipigon	el		
+1665	Lake Winnipeg	Llac Winnipeg	el		
+1666	Commander Basin	Conca del Comandant	la		
+1667	Emperor Ridge	Dorsal de l'Emperador	la		
+1668	Northwestern Pacific	Pacífic Nord-occidental	el		
+1669	Oyashio Current	Corrent d'Oyashio	el		
+1670	Northern Kuroshio Current	Corrent de Kuroshio Septentrional	el		
+1671	Kuroshio Current	Corrent de Kuroshio	el		
+1672	Western Pacific	Pacífic Occidental	el		
+1673	Micronesia Sea	Mar de Micronèsia	la		
+1674	Mariana Trench	Fossa de les Mariannes	la		
+1675	North Pacific Equatorial Current	Corrent Equatorial del Pacífic Nord	el		
+1676	Melanesian Basin	Conca Melanèsia	la		
+1677	Kuskokwim Bay	Badia de Kuskokwim	la		
+1678	Bering Strait	Estret de Bering	l'		
+1679	Shirshov Ridge	Dorsal de Xirxov	la		
+1680	Aleutian Islands	Illes Aleutianes	les		
+1681	Shumagin Islands	Illes Shumagin	les		
+1682	Gulf of Alaska	Golf d'Alaska	el		
+1683	Western Aleutian Trench	Fossa de les Aleutianes Occidental	la		
+1684	Northern California Current	Corrent de Califòrnia Septentrional	el		
+1685	Eastern Aleutian Trench	Fossa de les Aleutianes Oriental	la		
+1686	Eastern North Pacific Drift	Deriva del Pacífic Nord Oriental	la		
+1687	California Current	Corrent de Califòrnia	el		
+1688	Murray Fracture Zone	Zona de Fractura de Murray	la		
+1689	North Pacific Drift	Deriva del Pacífic Nord	la		
+1690	Western North Pacific Drift	Deriva del Pacífic Nord Occidental	la		
+1691	Wake Island	Illa Wake	l'		
+1692	Midway Island	Illa Midway	l'		
+1693	Molokai Fracture Zone	Zona de Fractura de Molokai	la		
+1694	Southern California Current	Corrent de Califòrnia Meridional	el		
+1695	Revilla Gigedo Islands	Illes Revillagigedo	les		
+1696	Clarion Fracture Zone	Zona de Fractura de Clarion	la		
+1697	Coast of Hawaii	Costa de Hawaii	la		
+1698	Marshall Islands	Illes Marshall	les		
+1699	Central Pacific Basin	Conca del Pacífic Central	la		
+1700	Cocos Ridge	Dorsal de Cocos	la		
+1701	Guatemala Basin	Conca de Guatemala	la		
+1702	Galapagos Islands	Illes Galápagos	les		
+1703	Nazca Ridge	Dorsal de Nazca	la		
+1704	Juan Fernandez Islands	Illes Juan Fernández	les		
+1705	Chile Rise	Dorsal de Xile	la		
+1706	West of Magellans	Oest de Magalhães	l'		
+1707	Clipperton Island	Illa Clipperton	l'		
+1708	Galapagos Rise	Elevació de les Galápagos	l'		
+1709	Peru Current	Corrent del Perú	el		
+1710	Humboldt Current	Corrent de Humboldt	el		
+1711	East Pacific Rise	Dorsal del Pacífic Oriental	la		
+1712	South Equatorial Pacific Current	Corrent Equatorial del Pacífic Sud	el		
+1713	Easter Island	Illa de Pasqua	l'		
+1714	North Pacific Converge Zone	Zona de Convergència del Pacífic Nord	la		
+1715	Eastern Equatorial Pacific Current	Corrent Equatorial del Pacífic Oriental	el		
+1716	Clipperton Fracture Zone	Zona de Fractura de Clipperton	la		
+1717	Southern Humboldt Current	Corrent de Humboldt Meridional	el		
+1718	Mornington Abyssal Plain	Plana Abissal de Mornington	la		
+1719	South Pacific Raging Fifties	Cinquanta Furiosos del Pacífic Sud	els		⚠ calc de Furious Fifties
+1720	Tharp Fault	Falla de Tharp	la		
+1721	South Pacific Roaring Forties	Quaranta Rugents del Pacífic Sud	els		⚠ calc de Roaring Forties
+1722	Louisville Seamount Chain	Cadena submarina de Louisville	la		
+1723	Chatham Islands	Illes Chatham	les		
+1724	Southeast Pacific	Pacífic Sud-oriental	el		
+1725	Tuamotu Islands	Illes Tuamotu	les		
+1726	Samoa Islands	Illes Samoa	les		
+1727	Bass Islands	Illes Bass	les		
+1728	Society Islands	Illes de la Societat	les		
+1729	South Pacific	Pacífic Sud	el		
+1730	East Pacific Ridge	Dorsal del Pacífic Est	la		
+1731	Eltanin Fracture Zone	Zona de Fractura d'Eltanin	la		
+1732	Kiribati Islands	Illes Kiribati	les		
+1733	Phoenix Islands	Illes Fènix	les		
+1734	Gilbert Islands	Illes Gilbert	les		
+1735	Line Islands	Illes de la Línia	les		
+1736	Western Equatorial Pacific Counter Current	Contracorrent Equatorial del Pacífic Occidental	el		
+1737	Marquesas Islands	Illes Marqueses	les		
+1738	Flint Island	Illa Flint	l'		
+1739	Pitcairn Islands	Illes Pitcairn	les		
+1740	Equatorial Pacific Counter Current	Contracorrent Equatorial del Pacífic	el		
+1741	Tiki Basin	Conca Tiki	la		
+1742	Upper Guelders	Alt Gelderland	l'		
+1743	Cambray	Cambrai			
+1744	Antwerpen	Anvers			
+1745	Cantabria	Cantàbria			
+1746	Burgos	Burgos			
+1747	Caceres	Càceres			
+1748	Jaén	Jaén			
+1749	Cadiz	Cadis			
+1750	Alicante	Alacant			
+1751	Ceuta	Ceuta			
+1752	Rzhev	Rzhev			
+1753	Kostroma	Kostroma			
+1754	Murom	Murom			
+1755	Ustyug	Ustyug			
+1756	Bessarabia	Bessaràbia			
+1757	Oberpfalz	Alt Palatinat	l'		
+1758	Hanover	Hannover			
+1759	Potsdam	Potsdam			
+1760	Koblenz	Coblença			
+1761	Pfalz	Palatinat			
+1762	Niederhessen	Baix Hessen	el		
+1763	Niederlausitz	Baixa Lusàcia			
+1764	Burgas	Burgas			
+1765	Sofia	Sofia			
+1766	Kosovo	Kosovo			
+1767	Slavonia	Eslavònia			
+1768	Lienz	Lienz			
+1769	Görz	Gorizia			
+1770	Manhartsberg	Manhartsberg			
+1771	Erz	Erz			
+1772	Pozsony	Pozsony			⚠ manté Pozsony (històric); actual Bratislava
+1773	Achaea	Acaia			
+1774	Treviso	Treviso			
+1775	Holstein	Holstein			
+1776	White Karelia	Carèlia Blanca			
+1777	Kola	Kola			
+1778	Kasimov	Kasimov			
+1779	Rub' al Khali	Rub' al Khali			
+1780	Komi	Komi			
+1781	Western Siberia	Sibèria Occidental			
+1782	Central Siberia	Sibèria Central			
+1783	Eastern Siberia	Sibèria Oriental			
+1784	Tian Shan	Tian Shan			
+1785	Pamir	Pamir			
+1786	Takla Makan	Taklamakan			
+1787	Himalaya	Himàlaia			
+1788	Arunachal	Arunachal			
+1789	Papua	Papua			
+1790	Western Australia	Austràlia Occidental			
+1791	Central Australia	Austràlia Central			
+1792	Merina	Merina			
+1793	El Djouf	El Djouf			
+1794	Central Sahara	Sàhara Central	el		
+1795	East Sahara	Sàhara Oriental	el		
+1796	Central Africa	Àfrica Central			
+1797	Northern Congo Basin	Conca del Congo Septentrional	la		
+1798	Imatong	Imatong			
+1799	Urgoma	Urgoma			
+1800	Lower Limpopo	Baix Limpopo	el		
+1801	Kalahari	Kalahari			
+1802	Western Amazonas	Amazones Occidental			
+1803	Eastern Amazonas	Amazones Oriental			
+1804	Greenland	Groenlàndia			
+1805	Ungava	Ungava			
+1806	Weagamow	Weagamow			
+1807	Baffin	Baffin			
+1808	Great Basin	Gran Conca			
+1809	Só'taeo'o	Só'taeo'o			
+1810	Alaska	Alaska			
+1811	Nunavut	Nunavut			
+1812	Northwest Territories	Territoris del Nord-oest	els		
+1813	Saskatchewan	Saskatchewan			
+1814	Columbia	Colúmbia			
+1815	Pathein	Pathein			
+1816	Beijing	Pequín			
+1817	Nan	Nan			
+1818	Chikuzen	Chikuzen			
+1819	Tosa	Tosa			
+1820	Awa	Awa			
+1821	Nanjing	Nanquín			
+1822	Suzhou	Suzhou			
+1823	Stung Treng	Stung Treng			
+1824	Wenzhou	Wenzhou			
+1825	Aki	Aki			
+1826	Lika	Lika			
+1827	Raska	Raska			
+1828	Donji Kraji	Donji Kraji			
+1829	Quanzhou	Quanzhou			
+1830	Tajima	Tajima			
+1831	Herzegovina	Hercegovina			
+1832	Yamato	Yamato			
+1833	Ji'an	Ji'an			
+1834	Dorpat	Dorpat			⚠ manté Dorpat (històric); actual Tartu
+1835	Mino	Mino			
+1836	Luoyang	Luoyang			
+1837	Etchu	Etchu			
+1838	Hefei	Hefei			
+1839	Suruga	Suruga			
+1840	Guilin	Guilin			
+1841	Marienburg	Marienburg			
+1842	Narva	Narva			
+1843	Kozuke	Kozuke			
+1844	Xiankhouang	Xiankhouang			
+1845	Pyeongyang	Pyeongyang			
+1846	Amasya	Amasya			
+1847	Shiribeshi	Shiribeshi			
+1848	Hamid	Hamid			
+1849	Hama	Hama			
+1850	Yaran	Yaran			
+1851	Coimbra	Coimbra			
+1852	Tokachi	Tokachi			
+1853	Kastoria	Kastoria			
+1854	Jaffa	Jaffa			
+1855	Sidon	Sidó			
+1856	Abkhazia	Abkhàzia			
+1857	Lauenburg	Lauenburg			
+1858	Stettin	Stettin			⚠ manté Stettin (històric); actual Szczecin
+1859	Chelmno	Chelmno			
+1860	Norfolk	Norfolk			
+1861	Derby	Derby			
+1862	Cremona	Cremona			
+1863	Graz	Graz			
+1864	Somogy	Somogy			
+1865	Ghent	Gant			
+1866	Namur	Namur			
+1867	Vaud	Vaud			
+1868	Augsburg	Augsburg			
+1869	Zürich	Zúric			
+1870	St Gallen	Sankt Gallen			
+1871	Wallis	Valais			⚠ Wallis (alemany) / Valais (francès)
+1872	Ulm	Ulm			
+1873	Chur	Chur			
+1874	Bremen	Bremen			
+1875	Cuneo	Cuneo			
+1876	Frankfurt	Frankfurt			
+1877	Charolais	Charolais			
+1878	Aachen	Aquisgrà			
+1879	Alençon	Alençon			
+1880	Sundgau	Sundgau			
+1881	St. Martin	Saint-Martin			
+1882	Annaba	Annaba			
+1883	Western Finnish Lakes	Llacs Finlandesos Occidentals	els		
+1884	East Finnish Lakes	Llacs Finlandesos Orientals	els		
+1885	Central Finnish Lakes	Llacs Finlandesos Centrals	els		
+1886	Storavan	Storavan			
+1887	Storsjön	Storsjön			
+1888	Kara Sea	Mar de Kara	la		
+1889	Lake Geneva	Llac Léman	el		
+1890	Lake Constance	Llac de Constança	el		
+1891	Lake Tuz	Llac Tuz	el		
+1892	Lake Van	Llac Van	el		
+1893	Lake Urmia	Llac Urmia	el		
+1894	Sevan Lake	Llac Sevan	el		
+1895	Lake Taihu	Llac Taihu	el		
+1896	Lake Hongze	Llac Hongze	el		
+1897	Dongting	Dongting			
+1898	Tonlé Sap Lake	Llac Tonlé Sap	el		
+1899	Tana Lake	Llac Tana	el		
+1900	Lake Turkana	Llac Turkana	el		
+1901	Mpangu	Mpangu			
+1902	Lake Poopo	Llac Poopó	el		
+1903	Lake Champlain	Llac Champlain	el		
+1904	Lake Saint-Jean	Llac Saint-Jean	el		
+1905	Lake Manicouagan	Llac Manicouagan	el		
+1906	Lake Michikamau	Llac Michikamau	el		
+1907	Lake Bienville	Llac Bienville	el		
+1908	Clearwater Lakes	Llacs Clearwater	els		
+1909	Lake Minto	Llac Minto	el		
+1910	La Grande River	Riu La Grande	el		
+1911	Lake Island	Llac Island	el		
+1912	Lake Reindeer	Llac Reindeer	el		
+1913	Wollaston Lake	Llac Wollaston	el		
+1914	Great Slave Lake	Gran Llac de l'Esclau			
+1915	Lake Athabasca	Llac Athabasca	el		
+1916	Dubawni Lake	Llac Dubawnt	el		⚠ el joc diu Dubawni (errata?)
+1917	Yathkyed Lake	Llac Yathkyed	el		
+1918	Kasba Lake	Llac Kasba	el		
+1919	Nueltin Lake	Llac Nueltin	el		
+1920	Wholdaia Lake	Llac Wholdaia	el		
+1921	Peter Pond Lake	Llac Peter Pond	el		
+1922	Great Salt Lake	Gran Llac Salat			
+1923	Williston Lake	Llac Williston	el		
+1924	Greenland Tip	Punta de Groenlàndia	la		
+1925	Tana	Tana			
+1926	Northern Baltic Sea	Mar Bàltica Septentrional	la		
+1927	Eastern Baltic Sea	Mar Bàltica Oriental	la		
+1928	Western Sea of Åland	Mar Occidental d'Åland	la		
+1929	Western Norwegian Sea	Mar de Noruega Occidental	la		
+1930	Åland	Åland			
+1931	East Frisia	Frísia Oriental			
+1932	Gulf of Satalia	Golf d'Antalya	el		
+1933	Bari	Bari			
+1934	Lucania	Lucània			
+1935	Mitau	Mitau			⚠ manté Mitau (històric); actual Jelgava
+1936	Kovno	Kovno			⚠ manté Kovno (històric); actual Kaunas
+1937	Grodno	Grodno			
+1938	Wizna	Wizna			
+1939	Leczyca	Leczyca			
+1940	Belz	Belz			
+1941	Turov	Turov			
+1942	Zhytomyr	Zhytomyr			
+1943	Bratslav	Bratslav			
+1944	Cherkasy	Cherkasy			
+1945	Severia	Sevèria			
+1946	Satara	Satara			
+1947	Gingee	Gingee			
+1948	Bidar	Bidar			
+1949	Penukonda	Penukonda			
+1950	Meghalaya	Meghalaya			
+1951	Hunyad	Hunyad			
+1952	Maramaros	Maramaros			
+1953	Szabolcs	Szabolcs			
+1954	Torontál	Torontál			
+1955	Kholmogory	Kholmogori			
+1956	Suzdal	Súzdal			
+1957	Galich	Galich			
+1958	Kargopol	Kargopol			
+1959	Torzhok	Torzhok			
+1960	Ostrov	Ostrov			
+1961	Ladoga	Làdoga			
+1962	Kudymkar	Kudymkar			
+1963	Cherdyn	Cherdyn			
+1964	Ust-Sysolsk	Ust-Sysolsk			
+1965	Buzuluk	Buzuluk			
+1966	Chelyaba	Chelyaba			
+1967	Khujand	Khujand			
+1968	Kulob	Kulob			
+1969	Sozak	Sozak			
+1970	Syghnak	Syghnak			
+1971	Beljamen	Beljamen			
+1972	Udmurtia	Udmúrtia			
+1973	Urgench	Urgench			
+1974	Yedishkul	Yedishkul			
+1975	North Sea	Mar del Nord	la		
+1976	Dead Sea	Mar Morta	la		
+1977	Mälaren	Mälaren			
+1978	Shetland	Shetland			
+1979	Färöarna	Fèroe			
+1980	Hokuriku Coast	Costa de Hokuriku	la		
+1981	Bornholm	Bornholm			
+1982	Blekinge	Blekinge			
+1983	Lolland	Lolland			
+1984	Nordjylland	Jutlàndia del Nord			
+1985	Närke	Närke			
+1986	New Caledonia	Nova Caledònia			
+1987	Society Islands	Illes de la Societat	les		
+1988	Rapanui	Rapanui			
+1989	Tonga	Tonga			
+1990	Tuvalu	Tuvalu			
+1991	Gilbert Islands	Illes Gilbert	les		
+1992	Nauru	Nauru			
+1993	Marshall Islands	Illes Marshall	les		
+1994	Wake	Wake			
+1995	Micronesia	Micronèsia			
+1996	Palau	Palau			
+1997	Midway	Midway			
+1998	Christmas Island	Illa Christmas	l'		
+1999	Cocos Island	Illes Cocos	les		⚠ Illes Cocos (Keeling) si és l'Índic; Illa del Coco si és Costa Rica
+2000	Qinghai Lake	Llac Qinghai	el		
+2001	Siling Lake	Llac Siling	el		
+2002	Galápagos Islands	Illes Galápagos	les		
+2003	Ktunaxa	Ktunaxa			
+2004	Kainaa	Kainaa			
+2005	Assapasca	Assapasca			
+2006	Ashalaho	Ashalaho			
+2007	Sahnish	Sahnish			
+2008	Sihasapa	Sihasapa			
+2009	Oglala	Oglala			
+2010	Pequot	Pequot			
+2011	Senedo	Senedo			
+2012	Ersegonteog	Ersegonteog			
+2013	Allesikantekw	Allesikantekw			
+2014	Natchitoches	Natchitoches			
+2015	Outchibou	Outchibou			
+2016	Amahami	Amahami			
+2017	Matiyininiwak	Matiyininiwak			
+2018	Tsuu T'ina	Tsuu T'ina			
+2019	Nimipu	Nimipu			
+2020	Banakwut	Banakwut			
+2021	Miwok	Miwok			
+2022	Haida	Haida			
+2023	Munsee	Munsee			
+2024	Garoowe	Garoowe			
+2025	South Georgia	Geòrgia del Sud			
+2026	Tanjore	Tanjore			
+2027	Arcot	Arcot			
+2028	Mahur	Mahur			
+2029	South Kanara	Kanara del Sud			
+2030	Goa	Goa			
+2031	Morasanadu	Morasanadu			
+2032	Malenadu	Malenadu			
+2033	Savanur	Savanur			
+2034	Pune	Pune			
+2035	Gulbarga	Gulbarga			
+2036	Baglana	Baglana			
+2037	Warangal	Warangal			
+2038	Midnapore	Midnapore			
+2039	Sunderbans	Sunderbans			
+2040	Sadiya	Sadiya			
+2041	Manipur	Manipur			
+2042	Koch Hajo	Koch Hajo			
+2043	Balasore	Balasore			
+2044	Bhagalpur	Bhagalpur			
+2045	Rangpur	Rangpur			
+2046	Nasirabad	Nasirabad			
+2047	Tirhut	Tirhut			
+2048	Jeypore	Jeypore			
+2049	Khurda	Khurda			
+2050	Chanda	Chanda			
+2051	Gohilvad	Gohilvad			
+2052	Halar	Halar			
+2053	Patan	Patan			
+2054	Ahmadabad	Ahmadabad			
+2055	Gorakhpur	Gorakhpur			
+2056	Rewakantha	Rewakantha			
+2057	Bhilsa	Bhilsa			
+2058	Mewar	Mewar			
+2059	Kalpi	Kalpi			
+2060	Upper Doab	Alt Doab	l'		
+2061	Katehar	Katehar			
+2062	Panipat	Panipat			
+2063	Etawah	Etawah			
+2064	Shekhawati	Shekhawati			
+2065	Bhattiana	Bhattiana			
+2066	Nagaur	Nagaur			
+2067	Gorwar	Gorwar			
+2068	Siwi	Siwi			
+2069	Kumaon	Kumaon			
+2070	Chaubisi Rajya	Chaubisi Rajya			
+2071	Limbuwan	Limbuwan			
+2072	Bhakkar	Bhakkar			
+2073	Gilgit	Gilgit			
+2074	Ladakh	Ladakh			
+2075	Doaba	Doaba			
+2076	Sialkot	Sialkot			
+2077	Margalla	Margalla			
+2078	Bannu	Bannu			
+2079	Derajat	Derajat			
+2080	Srikakulam	Srikakulam			
+2081	Lakhnor	Lakhnor			
+2082	Raipur	Raipur			
+2083	Udayagiri	Udayagiri			
+2084	Konaseema	Konaseema			
+2085	Tiruchirappalli	Tiruchirappalli			
+2086	Cholistan	Cholistan			
+2087	Ajmer	Ajmer			
+2088	Umarkot	Umarkot			
+2089	Chaul	Chaul			
+2090	Kurnool	Kurnool			
+2091	Tripura	Tripura			
+2092	Mahadeo	Mahadeo			
+2093	Mandsaur	Mandsaur			
+2094	Bahreich	Bahreich			
+2095	Varanasi	Varanasi			
+2096	Damin	Damin			
+2097	Baghelkhand	Baghelkhand			
+2098	Surguja	Surguja			
+2099	Kandy	Kandy			
+2100	Vanni	Vanni			
+2101	Tirunelveli	Tirunelveli			
+2102	Albazin	Albazin			
+2103	Udi	Udi			
+2104	Birija	Birija			
+2105	Kuru	Kuru			
+2106	Furdan	Furdan			
+2107	Ningguta	Ningguta			
+2108	Huncun	Huncun			
+2109	Boduna	Boduna			
+2110	Yehe	Yehe			
+2111	Hetu Ala	Hetu Ala			
+2112	Andong	Andong			
+2113	Gaizhou	Gaizhou			
+2114	Ereen	Ereen			
+2115	Chahar	Chahar			
+2116	Ih Huree	Ih Huree			
+2117	Zasagt	Zasagt			
+2118	Urzhar	Urzhar			
+2119	Chuguchak	Chuguchak			
+2120	Ili	Ili			
+2121	Kuqa	Kuqa			
+2122	Hami	Hami			
+2123	Qakilik	Qakilik			
+2124	Yarkand	Yarkand			
+2125	Kochkor	Kochkor			
+2126	Chuy	Chuy			
+2127	Yashilkul	Yashilkul			
+2128	Tsaparang	Tsaparang			
+2129	Changtang	Changtang			
+2130	Nyingchi	Nyingchi			
+2131	Qamdo	Qamdo			
+2132	Markam	Markam			
+2133	Dege	Dege			
+2134	Rebgong	Rebgong			
+2135	Garze	Garze			
+2136	Xuanhua	Xuanhua			
+2137	Daming	Daming			
+2138	Wuding	Wuding			
+2139	Laizhou	Laizhou			
+2140	Yanzhou	Yanzhou			
+2141	Xuzhou	Xuzhou			
+2142	Huai'an	Huai'an			
+2143	Fengyang	Fengyang			
+2144	Fuyang	Fuyang			
+2145	Zhenjiang	Zhenjiang			
+2146	Ningguo	Ningguo			
+2147	Huizhou	Huizhou			
+2148	Shaoxin	Shaoxin			
+2149	Ningbo	Ningbo			
+2150	Jinhua	Jinhua			
+2151	Poyang	Poyang			
+2152	Jianning	Jianning			
+2153	Tingzhou	Tingzhou			
+2154	Tamsui	Tamsui			
+2155	Middag	Middag			
+2156	Chaochow	Chaochow			
+2157	Waichow	Waichow			
+2158	Shiukwan	Shiukwan			
+2159	Leichow	Leichow			
+2160	Ngaichow	Ngaichow			
+2161	Limchow	Limchow			
+2162	Ngchow	Ngchow			
+2163	Liuzhou	Liuzhou			
+2164	Namning	Namning			
+2165	Pu'er	Pu'er			
+2166	Dehong	Dehong			
+2167	Lijiang	Lijiang			
+2168	Bozhou	Bozhou			
+2169	Langzhong	Langzhong			
+2170	Songqu	Songqu			
+2171	Xiangyang	Xiangyang			
+2172	Jingzhou	Jingzhou			
+2173	Yuanling	Yuanling			
+2174	Hengyang	Hengyang			
+2175	Runing	Runing			
+2176	Shangqiu	Shangqiu			
+2177	Ningwu	Ningwu			
+2178	Lu'an	Lu'an			
+2179	Yan'an	Yan'an			
+2180	Tianshui	Tianshui			
+2181	Pingliang	Pingliang			
+2182	Liangzhou	Liangzhou			
+2183	Taozhou	Taozhou			
+2184	Xining	Xining			
+2185	Mergen	Mergen			
+2186	Iman	Iman			
+2187	Sartu	Sartu			
+2188	Alchuka	Alchuka			
+2189	Tsetserleg	Tsetserleg			
+2190	Bayankhongor	Bayankhongor			
+2191	Ejin	Ejin			
+2192	Korla	Korla			
+2193	Govi	Govi			
+2194	Qilian	Qilian			
+2195	Adyghe	Adyghe			
+2196	Guria	Gúria			
+2197	Kabardia	Kabardia			
+2198	Khundzia	Khundzia			
+2199	Tarki	Tarki			
+2200	Suleiman Range	Serralada de Suleiman	la		
+2201	Alania	Alània			
+2202	Melikates	Melikates			
+2203	Kakheti	Kakhètia			
+2204	Kars	Kars			
+2205	Nakhchivan	Nakhitxevan			
+2206	Urmia	Urmia			
+2207	Maragheh	Maragheh			
+2208	Terek	Terek			
+2209	Ilam	Ilam			
+2210	Kirmanshah	Kirmanshah			
+2211	Ardalan	Ardalan			
+2212	Zanjan	Zanjan			
+2213	Qom	Qom			
+2214	Golestan	Golestan			
+2215	Qazvin	Qazvin			
+2216	Semnan	Semnan			
+2217	Yasuj	Yasuj			
+2218	Shiraz	Xiraz			
+2219	Bandar Langeh	Bandar Langeh			
+2220	Bam	Bam			
+2221	Mashhad	Mashhad			
+2222	Ardakan	Ardakan			
+2223	Larestan	Larestan			
+2224	Ferah	Ferah			
+2225	Bamyan	Bamyan			
+2226	Jalalabad	Jalalabad			
+2227	Kunduz	Kunduz			
+2228	Maymana	Maymana			
+2229	Bust	Bust			
+2230	Chakhansur	Chakhansur			
+2231	Bela	Bela			
+2232	Kharan	Kharan			
+2233	Chabahar	Chabahar			
+2234	Rafsanjan	Rafsanjan			
+2235	Sabzevar	Sabzevar			
+2236	Bojnord	Bojnord			
+2237	Tekrur	Tekrur			
+2238	Kantor	Kantor			
+2239	Siine	Siine			
+2240	Galam	Galam			
+2241	Beafada	Beafada			
+2242	Karou	Karou			
+2243	Termes	Termes			
+2244	Tagant	Tagant			
+2245	Wagadu	Wagadu			
+2246	Baghena	Baghena			
+2247	Hodh	Hodh			
+2248	Do	Do			
+2249	Sibiridugu	Sibiridugu			
+2250	Bendugu	Bendugu			
+2251	Guinea	Guinea			
+2252	Lobi	Lobi			
+2253	Gwiriko	Gwiriko			
+2254	Bonoman	Bonoman			
+2255	Gyaaman	Gyaaman			
+2256	Dagbon	Dagbon			
+2257	Denkyira	Denkyira			
+2258	Cape Coast	Cape Coast			
+2259	Sah	Sah			
+2260	Mema	Mema			
+2261	Kala	Kala			
+2262	Karabara	Karabara			
+2263	Haayre	Haayre			
+2264	Hombori	Hombori			
+2265	Liptako	Liptako			
+2266	Bilanga	Bilanga			
+2267	Tenkodogo	Tenkodogo			
+2268	Aribanda	Aribanda			
+2269	Zarmaganda	Zarmaganda			
+2270	Dallol	Dallol			
+2271	Azawagh	Azawagh			
+2272	Azbin	Azbin			
+2273	Ader	Ader			
+2274	Air	Aïr			
+2275	Tenere	Tenere			
+2276	Itesan	Itesan			
+2277	Kawar	Kawar			
+2278	Kebbi	Kebbi			
+2279	Daura	Daura			
+2280	Biram	Biram			
+2281	Rano	Rano			
+2282	Muniyo	Muniyo			
+2283	Bedde	Bedde			
+2284	Manga	Manga			
+2285	Marghi	Marghi			
+2286	Logone	Logone			
+2287	Kotoko	Kotoko			
+2288	Yao	Yao			
+2289	Ondo	Ondo			
+2290	Ijebu	Ijebu			
+2291	Ketu	Ketu			
+2292	Moshi	Moshi			
+2293	Yawuri	Yawuri			
+2294	Warri	Warri			
+2295	Atakora	Atakora			
+2296	Karasi	Karasi			
+2297	Saruhan	Saruhan			
+2298	Tekke	Tekke			
+2299	Bolu	Bolu			
+2300	Bozok	Bozok			
+2301	Kayseri	Kayseri			
+2302	Içel	Içel			
+2303	Malatya	Malatya			
+2304	Canik	Canik			
+2305	Erzincan	Erzincan			
+2306	Mush	Mush			
+2307	Van	Van			
+2308	Urfa	Urfa			
+2309	Sinjar	Sinjar			
+2310	Tikrit	Tikrit			
+2311	Samawat	Samawat			
+2312	Wasit	Wasit			
+2313	Antioch	Antioquia			
+2314	Rahba	Rahba			
+2315	Suez	Suez			
+2316	Al Gharbia	Al Gharbia			
+2317	Minya	Minya			
+2318	Bahiriya	Bahiriya			
+2319	Manfalut	Manfalut			
+2320	Ras Gharib	Ras Gharib			
+2321	Queseer	Queseer			
+2322	Wadi Halfa	Wadi Halfa			
+2323	Sahra an Nübyah	Sahra an Nübyah			
+2324	Halaib	Halaib			
+2325	Tarrana	Tarrana			
+2326	Bardiyah	Bardiyah			
+2327	Maan	Maan			
+2328	Al Ula	Al Ula			
+2329	Yanbu	Yanbu			
+2330	Ma'din Sulaym	Ma'din Sulaym			
+2331	Jeddah	Jiddah			⚠ també Gidda
+2332	Turubah	Turubah			
+2333	Zufra	Zufra			
+2334	Badiyat ash Sham	Badiyat ash Sham			
+2335	Dawasir	Dawasir			
+2336	Aflaj	Aflaj			
+2337	Buraydah	Buraydah			
+2338	Hafar	Hafar			
+2339	Yabrin	Yabrin			
+2340	Grane	Grane			
+2341	Masirah	Masirah			
+2342	Wusta	Wusta			
+2343	Kathiri	Kathiri			
+2344	Marib	Marib			
+2345	Beihan	Beihan			
+2346	Jazan	Jazan			
+2347	Hofuf	Hofuf			
+2348	Chios	Quios			
+2349	Kizil-Su	Kizil-Su			
+2350	Konjikala	Konjikala			
+2351	Shekty	Shekty			
+2352	Alty-Kuduk	Alty-Kuduk			
+2353	Tortkara	Tortkara			
+2354	Shegendyk	Shegendyk			
+2355	Narym	Narym			
+2356	Shymkent	Shymkent			
+2357	Aksary	Aksary			
+2358	Altyn	Altyn			
+2359	Baganaly	Baganaly			
+2360	Tobykty	Tobykty			
+2361	Dzhaman-Kuduk	Dzhaman-Kuduk			
+2362	Gurganj	Gurganj			
+2363	Atakent	Atakent			
+2364	Talas	Talas			
+2365	Orda	Orda			
+2366	Utva	Utva			
+2367	Lower Yik	Baix Yik	el		⚠ Yik = riu Ural
+2368	Karamegdan	Karamegdan			
+2369	Upper Ishim	Alt Ishim	l'		
+2370	Kungirot	Kungirot			
+2371	Song La	Song La			
+2372	Hai Phong	Haiphong			
+2373	Hue	Hue			
+2374	Kauthara	Kauthara			
+2375	Tay Nguyen	Tay Nguyen			
+2376	Prek Russey	Prek Russey			
+2377	Teuk Khmao	Teuk Khmao			
+2378	Kratie	Kratie			
+2379	Battambang	Battambang			
+2380	Phnom Penh	Phnom Penh			
+2381	Luang Namtha	Luang Namtha			
+2382	Savanh Nakhone	Savanh Nakhone			
+2383	Khukhanor Surin	Khukhanor Surin			
+2384	Nong Khai	Nong Khai			
+2385	Nongbua Lamphu	Nongbua Lamphu			
+2386	Chaiyaphum	Chaiyaphum			
+2387	Phetchaburi	Phetchaburi			
+2388	Phitsanulok	Phitsanulok			
+2389	Phra Bang	Phra Bang			
+2390	Chaiya	Chaiya			
+2391	Thalang	Thalang			
+2392	Selangor	Selangor			
+2393	Terengganu	Terengganu			
+2394	Kedah	Kedah			
+2395	Hkamti Long	Hkamti Long			
+2396	Mong Kawng	Mong Kawng			
+2397	Tamanthi	Tamanthi			
+2398	Thaungdut	Thaungdut			
+2399	Pagan	Pagan			
+2400	Hsipaw	Hsipaw			
+2401	Mong Pai	Mong Pai			
+2402	Sandoway	Sandoway			
+2403	Moulmein	Moulmein			
+2404	Mergui	Mergui			
+2405	Bender	Bender			
+2406	Ingil	Ingil			
+2407	Pereyaslav	Pereyaslav			
+2408	Yelets	Yelets			
+2409	Bahmut	Bahmut			
+2410	Theodoro	Teodoro			⚠ principat de Teodoro (Crimea)
+2411	Mansur	Mansur			
+2412	Kyzyl-Yar	Kyzyl-Yar			
+2413	Tyn	Tyn			
+2414	Azaraba	Azaraba			
+2415	Etkara	Etkara			
+2416	Majar	Majar			
+2417	Kuma	Kuma			
+2418	Ukek	Ukek			
+2419	Kanadey	Kanadey			
+2420	Agyidel	Agyidel			
+2421	Juketau	Juketau			
+2422	Veda-Suvar	Veda-Suvar			
+2423	Alatyr	Alatyr			
+2424	Peremyshl	Peremyshl			
+2425	Nenets	Nenets			
+2426	Yamal	Yamal			
+2427	Ostyaki	Ostyaki			
+2428	Yugan	Yugan			
+2429	Agan	Agan			
+2430	Baykha	Baykha			
+2431	Uchamin	Uchamin			
+2432	Chulym	Chulym			
+2433	Vah	Vah			
+2434	Barnaul	Barnaul			
+2435	Nukhtui	Nukhtui			
+2436	Chuna	Chuna			
+2437	Seganka	Seganka			
+2438	Kharya	Kharya			
+2439	Yarmanka	Yarmanka			
+2440	Kagyrgyn	Kagyrgyn			
+2441	Iglino	Iglino			
+2442	Ust-Kut	Ust-Kut			
+2443	Kan	Kan			
+2444	Bashgird	Bashgird			
+2445	Mangazea	Mangazea			
+2446	Chara	Chara			
+2447	Matrega	Matrega			
+2448	Fezzan	Fezzan			
+2449	Jufra	Jufra			
+2450	Ghadames	Ghadames			
+2451	Thubaqt	Thubaqt			
+2452	Zuwarah	Zuwarah			
+2453	Sfax	Sfax			
+2454	Kef	El Kef			⚠ o Al-Kef
+2455	Bizerte	Bizerta			
+2456	Touggourt	Touggourt			
+2457	Mzab	Mzab			
+2458	Hodna	Hodna			
+2459	Titteri	Titteri			
+2460	Saoura	Saoura			
+2461	Dahra	Dahra			
+2462	Ouarsenis	Ouarsenis			
+2463	Kasdir	Kasdir			
+2464	Ouarzazate	Ouarzazate			
+2465	Oujda	Oujda			
+2466	Draa	Draa			
+2467	Meknes	Mequinès			
+2468	Tadla	Tadla			
+2469	Dukkala	Dukkala			
+2470	Haha	Haha			
+2471	Chott el-Jerid	Chott el-Jerid			
+2472	Ouargla	Ouargla			
+2473	Sousse	Sussa			
+2474	Tajarhi	Tajarhi			
+2475	Djado	Djado			
+2476	Kuumeyay	Kuumeyay			
+2477	Ukom'nom	Ukom'nom			
+2478	Tachi	Tachi			
+2479	Maidu	Maidu			
+2480	Shasta	Shasta			
+2481	Maqlaqs	Maqlaqs			
+2482	Kalapuya	Kalapuya			
+2483	Umatalum	Umatalum			
+2484	Aqokulo	Aqokulo			
+2485	Kwaiailk	Kwaiailk			
+2486	Mamatchatpam	Mamatchatpam			
+2487	Sqeliz	Sqeliz			
+2488	Palus	Palus			
+2489	Boho'inee	Boho'inee			
+2490	Kusiutta	Kusiutta			
+2491	Hwalbay	Hwalbay			
+2492	Bedonkohe	Bedonkohe			
+2493	Hopituh	Hopituh			
+2494	Shiwinna	Shiwinna			
+2495	Aa'ku	Aa'ku			
+2496	Saldindé	Saldindé			
+2497	Tsès Sembai	Tsès Sembai			
+2498	Tahuundé	Tahuundé			
+2499	Coahuilteco	Coahuilteco			
+2500	Tel Kondaha	Tel Kondaha			
+2501	Piikani	Piikani			
+2502	Haaninin	Haaninin			
+2503	Ashshipite	Ashshipite			
+2504	Eeelalapito	Eeelalapito			
+2505	Tsetsehesahese	Tsetsehesahese			
+2506	Kuccuntikka	Kuccuntikka			
+2507	Baachinena	Baachinena			
+2508	Skiri	Skiri			
+2509	Utsetha	Utsetha			
+2510	Hiraaca	Hiraaca			
+2511	Itscheabine	Itscheabine			
+2512	Wahpekute	Wahpekute			
+2513	Moingwena	Moingwena			
+2514	Mishigamaw	Mishigamaw			
+2515	Satuskhdin	Satuskhdin			
+2516	Adai	Adai			
+2517	Bdewekhantunwan	Bdewekhantunwan			
+2518	La Pointe	La Pointe			
+2519	Kilatika	Kilatika			
+2520	Mengkonkia	Mengkonkia			
+2521	Saginawe	Saginawe			
+2522	Mascouten	Mascouten			
+2523	Piankeshaw	Piankeshaw			
+2524	Waapi-nipi	Waapi-nipi			
+2525	Chalahgawtha	Chalahgawtha			
+2526	Shatteras	Shatteras			
+2527	Atali	Atali			
+2528	Yazoo	Yazoo			
+2529	Natchez	Natchez			
+2530	Taneks-Haya	Taneks-Haya			
+2531	Abihka	Abihka			
+2532	Mabila	Mabila			
+2533	Chatot	Chatot			
+2534	Yustaga	Yustaga			
+2535	Calusa	Calusa			
+2536	Mayaimi	Mayaimi			
+2537	Ichisi	Ichisi			
+2538	Ocute	Ocute			
+2539	Mocama	Mocama			
+2540	Etowah	Etowah			
+2541	Saluda	Saluda			
+2542	Cusabo	Cusabo			
+2543	Waccamaw	Waccamaw			
+2544	Yadkin	Yadkin			
+2545	Waxhaw	Waxhaw			
+2546	Chicora	Chicora			
+2547	Roanoke	Roanoke			
+2548	Tutelo	Tutelo			
+2549	Moratok	Moratok			
+2550	Rappahannock	Rappahannock			
+2551	Calicula	Calicula			
+2552	Manahoac	Manahoac			
+2553	Patawomac	Patawomac			
+2554	Nentego	Nentego			
+2555	Honniasont	Honniasont			
+2556	Onojutta	Onojutta			
+2557	Atrakwaye	Atrakwaye			
+2558	Espachomy	Espachomy			
+2559	Tekontaroken	Tekontaroken			
+2560	Quiripi	Quiripi			
+2561	Wampanoag	Wampanoag			
+2562	Penakuk	Penakuk			
+2563	Missiasik	Missiasik			
+2564	Sokoki	Sokoki			
+2565	Kinnipekw	Kinnipekw			
+2566	Peskotomuhkati	Peskotomuhkati			
+2567	Tobique	Tobique			
+2568	Gespogoitnag	Gespogoitnag			
+2569	Eskikeogag	Eskikeogag			
+2570	Wolastoqiyik	Wolastoqiyik			
+2571	Madawaska	Madawaska			
+2572	Sigenigteogag	Sigenigteogag			
+2573	Placentia	Placentia			
+2574	Sikumiut	Sikumiut			
+2575	Naskapi	Naskapi			
+2576	Ekuanitshu	Ekuanitshu			
+2577	Pessamu	Pessamu			
+2578	Notiskuan	Notiskuan			
+2579	Pekuakamiulnuatsh	Pekuakamiulnuatsh			
+2580	Atikamekw	Atikamekw			
+2581	Timiskaming	Timiskaming			
+2582	Animouski	Animouski			
+2583	Kikonteku	Kikonteku			
+2584	Masoliantekw	Masoliantekw			
+2585	Arendaronon	Arendaronon			
+2586	Tionontate	Tionontate			
+2587	Odawa	Odawa			
+2588	Piscatang	Piscatang			
+2589	Kesagami	Kesagami			
+2590	Shaggami	Shaggami			
+2591	Outoulibi	Outoulibi			
+2592	Maskekowak	Maskekowak			
+2593	Wappus	Wappus			
+2594	Quennebigonhelini	Quennebigonhelini			
+2595	Kes-ye-hot'inne	Kes-ye-hot'inne			
+2596	Mahmikiwiniyak	Mahmikiwiniyak			
+2597	Sipiwininiwak	Sipiwininiwak			
+2598	Ye Xa Yabine	Ye Xa Yabine			
+2599	Ayabaskawiiniwak	Ayabaskawiiniwak			
+2600	Nihithawak	Nihithawak			
+2601	Dane-zaa	Dane-zaa			
+2602	Siksikawa	Siksikawa			
+2603	Tsek'ene	Tsek'ene			
+2604	Dakelh	Dakelh			
+2605	Secwepemc	Secwepemc			
+2606	Tsilhoqot'in	Tsilhoqot'in			
+2607	Syilkx	Syilkx			
+2608	Rocky Mountains	Muntanyes Rocoses	les		
+2609	Nisga'a	Nisga'a			
+2610	Heiltsuk	Heiltsuk			
+2611	Kodiak	Kodiak			
+2612	Eyak	Eyak			
+2613	Sitka	Sitka			
+2614	Cotoname	Cotoname			
+2615	Guamares	Guamares			
+2616	Seri	Seri			
+2617	Huichol	Huichol			
+2618	Toboso	Toboso			
+2619	Laguneros	Laguneros			
+2620	Nakipa	Nakipa			
+2621	Tizapan	Tizapan			
+2622	Cuitzeo	Cuitzeo			
+2623	Cutzamala	Cutzamala			
+2624	Patzcuaro	Pátzcuaro			
+2625	Hinonoeino	Hinonoeino			
+2626	Tullucan	Tullucan			
+2627	Cihuatlan	Cihuatlan			
+2628	Tepeacac	Tepeacac			
+2629	Coyolapan	Coyolapan			
+2630	Tochtepec	Tochtepec			
+2631	Mixe	Mixe			
+2632	Xicallanco	Xicallanco			
+2633	Ceh Pech	Ceh Pech			
+2634	Uaymil	Uaymil			
+2635	Lacandon	Lacandón			
+2636	Chacujal	Chacujal			
+2637	Chortli	Chortli			
+2638	Xoconochco	Xoconochco			
+2639	Raritan	Raritan			
+2640	Lenca	Lenca			
+2641	Tziccoac	Tziccoac			
+2642	Metztitlan	Metztitlan			
+2643	Apatzingan	Apatzingan			
+2644	Cholula	Cholula			
+2645	Teloloapan	Teloloapan			
+2646	Coixtlahuacan	Coixtlahuacan			
+2647	Cuetlaxtlan	Cuetlaxtlan			
+2648	Yopitzinco	Yopitzinco			
+2649	Tehuantepec	Tehuantepec			
+2650	Champutun	Champutun			
+2651	Ah Canul	Ah Canul			
+2652	Ecab	Ecab			
+2653	Iximché	Iximché			
+2654	Baracoa	Baracoa			
+2655	Bayamo	Bayamo			
+2656	Camaguey	Camagüey			
+2657	Colima	Colima			
+2658	Maguana	Maguana			
+2659	Magua	Magua			
+2660	Managua	Managua			
+2661	Uluas	Uluas			
+2662	Olancho	Olancho			
+2663	Nicoya	Nicoya			
+2664	Veraguas	Veraguas			
+2665	Eyeish	Eyeish			
+2666	Tuintsundé	Tuintsundé			
+2667	Cacaxtes	Cacaxtes			
+2668	Borrado	Borrado			
+2669	Hasinai	Hasinai			
+2670	Tahontaenrat	Tahontaenrat			
+2671	Missisage	Missisage			
+2672	Kitkehaki	Kitkehaki			
+2673	Pasai	Pasai			
+2674	Peureulak	Peureulak			
+2675	Rokan	Rokan			
+2676	Indragiri	Indragiri			
+2677	Jambi	Jambi			
+2678	Bangka	Bangka			
+2679	Belitung	Belitung			
+2680	Muko-Muko	Muko-Muko			
+2681	Pagarruyung	Pagarruyung			
+2682	Pariaman	Pariaman			
+2683	Mentawai	Mentawai			
+2684	Nias	Nias			
+2685	Gayo	Gayo			
+2686	Bintan	Bintan			
+2687	Pakuan	Pakuan			
+2688	Sumedang	Sumedang			
+2689	Pekalongan	Pekalongan			
+2690	Kotagede	Kotagede			
+2691	Kediri	Kediri			
+2692	Madura	Madura			
+2693	Lombok	Lombok			
+2694	Gangneung	Gangneung			
+2695	East Timor	Timor Oriental			
+2696	Yamdena	Yamdena			
+2697	Tondo	Tondo			
+2698	Pangasinan	Pangasinan			
+2699	Bikol	Bikol			
+2700	Panay	Panay			
+2701	Tagloc	Tagloc			
+2702	Butuan	Butuan			
+2703	Lehad Datu	Lehad Datu			
+2704	Sibu	Sibu			
+2705	Sigalang	Sigalang			
+2706	Katapang	Katapang			
+2707	Barito	Barito			
+2708	Sampit	Sampit			
+2709	Tarakan	Tarakan			
+2710	Sambaliung	Sambaliung			
+2711	Bulungan	Bulungan			
+2712	Samarinda	Samarinda			
+2713	Gorontalo	Gorontalo			
+2714	Palu	Palu			
+2715	Palopo	Palopo			
+2716	Buton	Buton			
+2717	Sula	Sula			
+2718	Fak-Fak	Fak-Fak			
+2719	Madang	Madang			
+2720	Lae	Lae			
+2721	Kerema	Kerema			
+2722	Daru	Daru			
+2723	Yos Sudarso	Yos Sudarso			
+2724	Asmat	Asmat			
+2725	Aru	Aru			
+2726	Malgana	Malgana			
+2727	Minang	Minang			
+2728	Tiwi	Tiwi			
+2729	Yolngu	Yolngu			
+2730	Awngthim	Awngthim			
+2731	Guugu Yimithirr	Guugu Yimithirr			
+2732	Wulgurukaba	Wulgurukaba			
+2733	Baiali	Baiali			
+2734	Yuin	Yuin			
+2735	Gunditjmara	Gunditjmara			
+2736	Nukunu	Nukunu			
+2737	Wairarapa	Wairarapa			
+2738	Te Tau Ihu	Te Tau Ihu			
+2739	Waikato	Waikato			
+2740	Borneo	Borneo			
+2741	Jeju	Jeju			
+2742	Yukjin	Yukjin			
+2743	Gyeongseong	Gyeongseong			
+2744	Yeongbyeon	Yeongbyeon			
+2745	Gyeongju	Gyeongju			
+2746	Vidin	Vidin			
+2747	Khara Narin Ula	Khara Narin Ula			
+2748	Jianchang	Jianchang			
+2749	Tikhvin	Tikhvin			
+2750	Plovdiv	Plovdiv			
+2751	Cuenca	Conca			
+2752	Romsdal	Romsdal			
+2753	Narbonne	Narbona			
+2754	La Mancha	Manxa	la		
+2755	Soria	Sòria			
+2756	Welayta	Welayta			
+2757	Kaffa	Kaffa			
+2758	Illubabor	Illubabor			
+2759	Gambela	Gambela			
+2760	Hadiya	Hadiya			
+2761	Arsi	Arsi			
+2762	Damot	Damot			
+2763	Asosa	Asosa			
+2764	Ausa	Ausa			
+2765	Assab	Assab			
+2766	Mendefera	Mendefera			
+2767	Enderta	Enderta			
+2768	Angot	Angot			
+2769	Lasta	Lasta			
+2770	Agew	Agew			
+2771	Semien	Semien			
+2772	Dembiya	Dembiya			
+2773	Mora	Mora			
+2774	Kismayo	Kismayo			
+2775	Merca	Merca			
+2776	Afgooye	Afgooye			
+2777	Bardera	Bardera			
+2778	Werder	Werder			
+2779	Afder	Afder			
+2780	Beledweyne	Beledweyne			
+2781	Gedo	Gedo			
+2782	Warsheikh	Warsheikh			
+2783	Hobyo	Hobyo			
+2784	Galkayo	Galkayo			
+2785	El Buur	El Buur			
+2786	Bosaso	Bosaso			
+2787	Hamasien	Hamasien			
+2788	Hafun	Hafun			
+2789	Las Khorey	Las Khorey			
+2790	Sanaag	Sanaag			
+2791	Ankober	Ankober			
+2792	Togdheer	Togdheer			
+2793	Hargeisa	Hargeisa			
+2794	Barawa	Barawa			
+2795	Meregh	Meregh			
+2796	Pate	Pate			
+2797	Shendy	Shendy			
+2798	Soba	Soba			
+2799	Sennar	Sennar			
+2800	Waylula	Waylula			
+2801	Medwa	Medwa			
+2802	Kobbe	Kobbe			
+2803	Orinoco Delta	Delta de l'Orinoco	el		
+2804	Guasipati	Guasipati			
+2805	Uyapari	Uyapari			
+2806	Guajira	Guajira			
+2807	Altagracia	Altagracia			
+2808	Coro	Coro			
+2809	Llanos	Llanos			
+2810	Apure	Apure			
+2811	Atabapo	Atabapo			
+2812	Pore	Pore			
+2813	Merida	Mérida			
+2814	Meta	Meta			
+2815	Puerto Carreno	Puerto Carreño			
+2816	Guaviare	Guaviare			
+2817	Neiva	Neiva			
+2818	Popayan	Popayán			
+2819	Darien	Darién			
+2820	Esmeraldas	Esmeraldas			
+2821	Piwra	Piwra			
+2822	Tucume	Tucume			
+2823	Moyobamba	Moyobamba			
+2824	Wankapampa	Wankapampa			
+2825	Pisqupampa	Pisqupampa			
+2826	Chimbote	Chimbote			
+2827	Huaraz	Huaraz			
+2828	Camana	Camana			
+2829	Ayaviri	Ayaviri			
+2830	Quero	Quero			
+2831	Tiahuanaco	Tiahuanaco			
+2832	San Joaquin	San Joaquin			
+2833	Madre de Dios	Madre de Dios			
+2834	Santa Cruz de la Sierra	Santa Cruz de la Sierra			
+2835	Sucre	Sucre			
+2836	Tucuman	Tucumán			
+2837	Santa Catalina	Santa Catalina			
+2838	Tarija	Tarija			
+2839	Puna de Atacama	Puna de Atacama			
+2840	Calama	Calama			
+2841	Antofagasta	Antofagasta			
+2842	Santiago del Estero	Santiago del Estero			
+2843	La Rioja	Rioja	la		
+2844	Chepes	Chepes			
+2845	San Juan	San Juan			
+2846	Quisquisacate	Quisquisacate			
+2847	San Luis	San Luis			
+2848	Santa Fe	Santa Fe			
+2849	Rosario	Rosario			
+2850	Montevideo	Montevideo			
+2851	Colonia	Colonia			
+2852	Salto	Salto			
+2853	Yapeyú	Yapeyú			
+2854	Chaco Central	Chaco Central			
+2855	Misiones	Misiones			
+2856	Highveld	Highveld		de	
+2857	Rio Grande do Sul	Rio Grande do Sul			
+2858	Santiago	Santiago			
+2859	Itapúa	Itapúa			
+2860	Querandi	Querandi			
+2861	Sauce	Sauce			
+2862	Coquimbo	Coquimbo			
+2863	Rio Negro	Rio Negro			
+2864	Senqu	Senqu			
+2865	Puelches	Puelches			
+2866	Olavarria	Olavarria			
+2867	Chanar	Chanar			
+2868	San Antonio	San Antonio			
+2869	Florida Blanca	Florida Blanca			
+2870	Tehuelmapu	Tehuelmapu			
+2871	Poya	Poya			
+2872	Chiquiyami	Chiquiyami			
+2873	Chiloe	Chiloé			
+2874	Aysen	Aysén			
+2875	Chubut	Chubut			
+2876	Teush	Teush			
+2877	Mendoza	Mendoza			
+2878	Matara	Matara			
+2879	Santa Tecla	Santa Tecla			
+2880	Griqualand	Griqualand			
+2881	Corumba	Corumba			
+2882	Fuerte Borbon	Fuerte Borbon			
+2883	Melodia	Melodia			
+2884	Povos das Missoes	Povos das Missoes			
+2885	Barra	Barra			
+2886	Parnaiba	Parnaiba			
+2887	Santa Catarina	Santa Catarina			
+2888	Cuiaba	Cuiabá			
+2889	Rio Branco	Rio Branco			
+2890	Marajó	Marajó			
+2891	Santo Antonio da Manga	Santo Antonio da Manga			
+2892	Araxas	Araxas			
+2893	Ofaie	Ofaie			
+2894	Sao Joao del Rei	São João del-Rei			
+2895	Castro	Castro			
+2896	Campinas	Campinas			
+2897	Araraquara	Araraquara			
+2898	Serro	Serro			
+2899	Vila Rica	Vila Rica			
+2900	Guapore	Guapore			
+2901	Cerejeiras	Cerejeiras			
+2902	Vila Bela	Vila Bela			
+2903	Caceres	Caceres			
+2904	Diamantino	Diamantino			
+2905	Rio Das Mortes	Rio Das Mortes			
+2906	Ipora	Ipora			
+2907	Vila Boa	Vila Boa			
+2908	Arrial dos Couros	Arrial dos Couros			
+2909	Conceicao	Conceição			
+2910	Pontal	Pontal			
+2911	Natividad	Natividade			⚠ població brasilera (Natividade)
+2912	Sergipe	Sergipe			
+2913	Jeremoabo	Jeremoabo			
+2914	Inhambupe	Inhambupe			
+2915	Pambu	Pambu			
+2916	Rio Contas	Rio Contas			
+2917	Paratinga	Paratinga			
+2918	Campo Largo	Campo Largo			
+2919	Luziana	Luziana			
+2920	Coxim	Coxim			
+2921	Alagoas	Alagoas			
+2922	Borborema	Borborema			
+2923	Pastos Bons	Pastos Bons			
+2924	Timon	Timon			
+2925	Parnagua	Parnagua			
+2926	Grajau	Grajau			
+2927	Alcantara	Alcantara			
+2928	Tucurui	Tucurui			
+2929	Para	Pará			
+2930	Santarem	Santarém			
+2931	Pirara	Pirara			
+2932	Wadai	Wadai			
+2933	Barcelos	Barcelos			
+2934	Manaus	Manaus			
+2935	Muturu	Muturu			
+2936	Guyana	Guaiana			
+2937	Suriname	Surinam			
+2938	Oiapoque	Oiapoque			
+2939	Zaraza	Zaraza			
+2940	Chichas	Chichas			
+2941	Choquechaca	Choquechaca			
+2942	Charcas	Charcas			
+2943	Chachapoyas	Chachapoyas			
+2944	Ucayali	Ucayali			
+2945	Yurimaguas	Yurimaguas			
+2946	Quillacas	Quillacas			
+2947	Macaya	Macaya			
+2948	Matamba	Matamba			
+2949	Mbata	Mbata			
+2950	Buhera	Buhera			
+2951	Manyika	Manyika			
+2952	Madanda	Madanda			
+2953	Hjälmaren	Hjälmaren			
+2954	Djerba	Gerba			
+2955	Ingolstadt	Ingolstadt			
+2956	Straubing	Straubing			
+2957	Regensburg	Ratisbona			
+2958	Osterode	Osterode			
+2959	Tarnow	Tarnow			
+2960	Nowy Sacz	Nowy Sacz			
+2961	Lwow	Lwow			⚠ es manté la forma històrica del joc (cat. Lviv)
+2962	Rowne	Rowne			
+2963	Notec	Notec			
+2964	Altmark	Altmark			
+2965	Vogtland	Vogtland			
+2966	Glogau	Glogau			
+2967	Eger	Eger			
+2968	Budejovice	Budejovice			
+2969	Sternberg	Sternberg			
+2970	Hradecko	Hradecko			
+2971	Hoya	Hoya			
+2972	Paderborn	Paderborn			
+2973	Meppen	Meppen			
+2974	Loon	Loon			
+2975	Kleves	Cleves			
+2976	Perugia	Perusa			
+2977	Urbino	Urbino			
+2978	Arezzo	Arezzo			
+2979	Novara	Novara			
+2980	Lucca	Lucca			
+2981	Montferrat	Montferrat			
+2982	Syracuse	Siracusa			
+2983	Salerno	Salern			
+2984	Cosenza	Cosenza			
+2985	Capitanata	Capitanata			
+2986	Cagliari	Càller			
+2987	Urgell	Urgell			
+2988	Tarragona	Tarragona			
+2989	Rioja	Rioja			
+2990	Teruel	Terol			
+2991	Forcalquier	Forcalquer			
+2992	Albenga	Albenga			
+2993	Uckermark	Uckermark			
+2994	Wolgast	Wolgast			
+2995	Stolp	Stolp			
+2996	Wismar	Wismar			
+2997	Tuchola	Tuchola			
+2998	Buzau	Buzau			
+2999	Hormuz	Ormuz			
+3000	Nis	Nis			
+3001	Skopje	Skopje			
+3002	Visoki	Visoki			
+3003	Euboea	Eubea			
+4020	Comoros	Comores			
+4021	Antankara	Antankara			
+4022	Iboina	Iboina			
+4023	Tsimihety	Tsimihety			
+4024	Maroantsetra	Maroantsetra			
+4025	Vatomandry	Vatomandry			
+4026	Antemoro	Antemoro			
+4027	Betsileo	Betsileo			
+4028	Mahafaly	Mahafaly			
+4029	Antanosy	Antanosy			
+4030	Bara	Bara			
+4031	Antsalova	Antsalova			
+4032	Fiherana	Fiherana			
+4033	Al Qadarif	Al Qadarif			
+4034	Makua	Makua			
+4035	Ngindo	Ngindo			
+4036	Wayao	Wayao			
+4037	Katsekera	Katsekera			
+4038	Lolo	Lolo			
+4039	Lundu	Lundu			
+4040	Kalonga	Kalonga			
+4041	Kinga	Kinga			
+4042	Makonde	Makonde			
+4043	Phangwa	Phangwa			
+4044	Ngonde	Ngonde			
+4045	Tumbuka	Tumbuka			
+4046	Lala	Lala			
+4047	Nsenga	Nsenga			
+4048	Lomwe	Lomwe			
+4049	Ibo	Ibo			
+4050	Luangwa	Luangwa			
+4051	Ewaso Ngiro	Ewaso Ngiro			
+4052	Dawa	Dawa			
+4053	Turkana	Turkana			
+4054	Kuria	Kuria			
+4055	Shamba	Shamba			
+4056	Gogo	Gogo			
+4057	Nyatura	Nyatura			
+4058	Zigua	Zigua			
+4059	Shaga	Shaga			
+4060	Kikuyu	Kikuyu			
+4061	Buzinza	Buzinza			
+4062	Busoga	Busoga			
+4063	Karagwe	Karagwe			
+4064	Buganda	Buganda			
+4065	Bunyoro	Bunyoro			
+4066	Nkore	Nkore			
+4067	Nduga	Nduga			
+4068	Bafuriru	Bafuriru			
+4069	Bushubi	Bushubi			
+4070	Nkoma	Nkoma			
+4071	Buyogoma	Buyogoma			
+4072	Ruguru	Ruguru			
+4073	Hehe	Hehe			
+4074	Pubungo	Pubungo			
+4075	Lango	Lango			
+4076	Muhambwe	Muhambwe			
+4077	Rukwa	Rukwa			
+4078	Mayumba	Mayumba			
+4079	Ngoyo	Ngoyo			
+4080	Soyo	Soyo			
+4081	Songo	Songo			
+4082	Kasanje	Kasanje			
+4083	Shinje	Shinje			
+4084	Malem	Malem			
+4085	Yaka	Yaka			
+4086	Nunu	Nunu			
+4087	Kumbana	Kumbana			
+4088	Munene	Munene			
+4089	Kuba	Kuba			
+4090	Songye	Songye			
+4091	Mpasu	Mpasu			
+4092	Rund	Rund			
+4093	Lwena	Lwena			
+4094	Chokwe	Chokwe			
+4095	Ishindi	Ishindi			
+4096	Kalundwe	Kalundwe			
+4097	Luba	Luba			
+4098	Upemba	Upemba			
+4099	Hemba	Hemba			
+4100	Luapula	Luapula			
+4101	Lualaba	Lualaba			
+4102	Bemba	Bemba			
+4103	Tabwa	Tabwa			
+4104	Lamba	Lamba			
+4105	Kusu	Kusu			
+4106	Lenje	Lenje			
+4107	Kanongesha	Kanongesha			
+4108	Kaonde	Kaonde			
+4109	Lega	Lega			
+4110	Sutherland	Sutherland			
+4111	Saintonge	Saintonge			
+4112	Quercy	Quercy			
+4113	Rovaniemi	Rovaniemi			
+4114	Jokkmokk	Jokkmokk			
+4115	Mazyr	Mazyr			
+4116	Oka	Oka			
+4117	Bezhetsk	Bezhetsk			
+4118	Cork	Cork			
+4119	Sligo	Sligo			
+4120	Kildare	Kildare			
+4121	Ulster	Ulster			
+4122	Shenkursk	Shenkursk			
+4123	Pirkanmaa	Pirkanmaa			
+4124	Karelia	Carèlia			
+4125	Szolnok	Szolnok			
+4126	Bacs	Bacs			
+4127	Turda	Turda			
+4128	Királyföld	Királyföld			
+4129	Ust-Vym	Ust-Vym			
+4130	Somerset	Somerset			
+4131	Mutsu	Mutsu			
+4132	Mweru	Mweru			
+4133	Kivu	Kivu			
+4134	Rutanzige	Rutanzige			
+4135	Lake Albert	Llac Albert	el		
+4136	Zaysan	Zaysan			
+4137	Alakol	Alakol			
+4138	Issyk-Kul	Issyk-Kul			
+4139	Oulujärvi	Oulujärvi			
+4140	Saimaa	Saimaa			
+4141	Dithmarschen	Dithmarschen			
+4142	Østjylland	Østjylland			
+4143	Smålenene	Smålenene			
+4144	Bratsberg	Bratsberg			
+4145	Agdesiden	Agdesiden			
+4146	Langfjella	Langfjella			
+4147	Rostov	Rostov			
+4148	Luki	Luki			
+4149	Kolding	Kolding			
+4150	Évora	Évora			
+4151	Enare	Enare			
+4152	Kainuu	Kainuu			
+4153	The Scandes	Alps Escandinaus	els		
+4154	The Pyrenees	Pirineus	els		
+4155	The Carpathians	Carpats	els		
+4156	The Caucasus	Caucas	el		
+4157	The Alps	Alps	els		
+4158	Janjiro	Janjiro			
+4159	The Alps	Alps	els		
+4160	The Alps	Alps	els		
+4161	The Alps	Alps	els		
+4162	The Alps	Alps	els		
+4163	Elfsborg	Elfsborg			
+4164	Dal	Dal			
+4165	Göinge	Göinge			
+4166	Tiohärad	Tiohärad			
+4167	High Atlas	Alt Atles	l'		
+4168	High Atlas	Alt Atles	l'		
+4169	Aures	Aurès			
+4170	Zagros	Zagros			
+4171	Abarquh	Abarquh			
+4172	Zagros	Zagros			
+4173	Syrmia	Sírmia			
+4174	Durrës	Durrës			
+4175	Lezhë	Lezhë			
+4176	Branicevo	Branicevo			
+4177	Alborz	Alborz			
+4178	Pontic Mountains	Muntanyes Pòntiques	les		
+4179	Hakkari Mountains	Muntanyes de Hakkari	les		
+4180	Hyuga	Hyuga			
+4181	Higo	Higo			
+4182	Hizen	Hizen			
+4183	Iwami	Iwami			
+4184	Bizen	Bizen			
+4185	Tango	Tango			
+4186	Iyo	Iyo			
+4187	Kii	Kii			
+4188	Shinano	Shinano			
+4189	Sagami	Sagami			
+4190	Shimousa	Shimousa			
+4191	Shimotsuke	Shimotsuke			
+4192	Ugo	Ugo			
+4193	Oshima	Oshima			
+4194	Yongping	Yongping			
+4195	Zhending	Zhending			
+4196	Haizhou	Haizhou			
+4197	Huangzhou	Huangzhou			
+4198	Fengxiang	Fengxiang			
+4199	Tongren	Tongren			
+4200	Hulan	Hulan			
+4201	Jianzhou	Jianzhou			
+4202	Taining	Taining			
+4203	Ju Ud	Ju Ud			
+4204	Anding	Anding			
+4205	Nagchu	Nagchu			
+4206	Balikul	Balikul			
+4207	Turpan	Turpan			
+4208	Qurqara-usu	Qurqara-usu			
+4209	Maralbexi	Maralbexi			
+4210	Yangi Hissar	Yangi Hissar			
+4211	Dazhou	Dazhou			
+4212	Jiazhou	Jiazhou			
+4213	Luzhou	Luzhou			
+4214	Ulch	Ulch			
+4215	Fudali	Fudali			
+4216	Oroch	Oroch			
+4217	Pijin	Pijin			
+4218	Buteha	Buteha			
+4219	Bayan Tumen	Bayan Tumen			
+4220	Khiagt	Khiagt			
+4221	Dundgovi	Dundgovi			
+4222	Ulaangom	Ulaangom			
+4223	Hetao	Hetao			
+4224	Tokai Sea	Mar de Tokai	la		
+4225	Hokkaido Coast	Costa de Hokkaido	la		
+4226	Japan Basin	Conca del Japó	la		
+4227	Jinju	Jinju			
+4228	Naju	Naju			
+4229	Chungju	Chungju			
+4230	Suwon	Suwon			
+4231	Haeju	Haeju			
+4232	Ganggye	Ganggye			
+4233	Bohai Sea	Mar de Bohai	la		
+4234	Western Yellow Sea	Mar Groc Occidental	la		
+4235	Vistula Lagoon	Llacuna del Vístula	la		
+4236	Trencin	Trencin			
+4237	Olomouc	Olomouc			
+4238	Liegnitz	Liegnitz			
+4239	Belgrade	Belgrad			
+4240	Fejér	Fejér			
+4241	Wenden	Wenden			
+4242	Ula	Ula			
+4243	Toropets	Toropets			
+4244	Trubchevsk	Trubchevsk			
+4245	Vyazma	Vyazma			
+4246	Mstislav	Mstislav			
+4247	Owrucz	Owrucz			
+4248	Kashin	Kashin			
+4249	Zubtsov	Zubtsov			
+4250	Mologa	Mologa			
+4251	Mozhaisk	Mozhaisk			
+4252	Kolomna	Kolomna			
+4253	Yuriev	Yuriev			
+4254	Starodub	Starodub			
+4255	Pronsk	Pronsk			
+4256	Solvychegodsk	Solvychegodsk			
+4257	Mezen	Mezen			
+4258	Onega	Onega			
+4259	Velsk	Velsk			
+4260	Vyshny Volochyok	Vyshny Volochyok			
+4261	Ustyuzhna	Ustyuzhna			
+4262	Totma	Totma			
+4263	Sol Galitskaya	Sol Galitskaya			
+4264	Tetyushi	Tetyushi			
+4265	Ar-Chally	Ar-Chally			
+4266	Izhkar	Izhkar			
+4267	Bolgar	Bolgar			
+4268	Aqabah	Àqaba			
+4269	Al Wajh	Al Wajh			
+4270	Azraq	Azraq			
+4271	Suwayda	Suwayda			
+4272	Al Jawf	Al Jawf			
+4273	Al-Kariatan	Al-Kariatan			
+4274	Sudayr	Sudayr			
+4275	Al-Yamamah	Al-Yamamah			
+4276	Jabal Tubaiq	Jabal Tubaiq			
+4277	Taif	Taif			
+4278	Qunfudhah	Qunfudhah			
+4279	Zabid	Zabid			
+4280	Taiz	Taiz			
+4281	Dhamar	Dhamar			
+4282	Sahda	Sahda			
+4283	Shihr	Shihr			
+4284	Al Ghaydah	Al Ghaydah			
+4285	Baraimi	Baraimi			
+4286	Ash Sharqiyah	Ash Sharqiyah			
+4287	Ibra	Ibra			
+4288	Shatt	Shatt			
+4289	Shushtar	Shushtar			
+4290	Hoveyzeh	Hoveyzeh			
+4291	Qazaniya	Qazaniya			
+4292	Mardin	Mardin			
+4293	Arbil	Arbil			
+4294	Sulaimaniyah	Sulaimaniyah			
+4295	Hisn Kayfa	Hisn Kayfa			
+4296	Bitlis	Bitlis			
+4297	Homs	Homs			
+4298	Ayntab	Ayntab			
+4299	Shamakhi	Shamakhi			
+4300	Mianeh	Mianeh			
+4301	Kartli	Kartli			
+4302	Bayazid	Bayazid			
+4303	Oltu	Oltu			
+4304	Khoy	Khoy			
+4305	Shaki	Shaki			
+4306	Lakia	Lakia			
+4307	Aksaray	Aksaray			
+4308	Denizli	Denizli			
+4309	Aydin	Aydin			
+4310	Divrigi	Divrigi			
+4311	Karahisar	Karahisar			
+4312	Sultanönü	Sultanönü			
+4313	Kangiri	Kangiri			
+4314	Kirshehir	Kirshehir			
+4315	Tokat	Tokat			
+4316	Sharqiya	Sharqiya			
+4317	Buhaira	Buhaira			
+4318	Atfih	Atfih			
+4319	Isna	Isna			
+4320	Girga	Girga			
+4321	Egyptian Desert	Desert Egipci	el		
+4322	Egyptian Desert	Desert Egipci	el		
+4323	Farafreh	Farafreh			
+4324	Ghuriyan	Ghuriyan			
+4325	Sarakhs	Sarakhs			
+4326	Nishapur	Nishapur			
+4327	Jask	Jask			
+4328	Chagai	Chagai			
+4329	Fasa	Fasa			
+4330	Darab	Darab			
+4331	Kazerun	Kazerun			
+4332	Siraf	Siraf			
+4333	Dahlak Archipelago	Arxipèlag de Dahlak	l'		
+4334	Tabas	Tabas			
+4335	Kashan	Kashan			
+4336	Tun	Tun			
+4337	Savah	Savah			
+4338	Soltanieh	Soltanieh			
+4339	Rasht	Rasht			
+4340	Astara	Astara			
+4341	Sari	Sari			
+4342	Malamir	Malamir			
+4343	Termez	Termez			
+4344	Kish	Kish			
+4345	Saidabad	Saidabad			
+4346	Qamr Bay	Badia de Qamr	la		
+4347	Pirate Coast	Costa dels Pirates	la		
+4348	Ifugao	Ifugao			
+4349	Laguna	Laguna			
+4350	Mindoro	Mindoro			
+4351	Buglas	Buglas			
+4352	Cebu	Cebu			
+4353	Leyte	Leyte			
+4354	Zamboanga	Zamboanga			
+4355	Caraga	Caraga			
+4356	Taytay	Taytay			
+4357	Cuyo Archipelago	Arxipèlag de Cuyo	l'		
+4358	Philippine Trench	Fossa de les Filipines	la		
+4359	Ise	Ise			
+4360	Mikawa	Mikawa			
+4361	Roxburghshire	Roxburghshire			
+4362	Dumfries	Dumfries			
+4363	Argyll	Argyll			
+4364	Inner Hebrides	Hèbrides Interiors	les		
+4365	Mann	Man			
+4366	Montgomery	Montgomery			
+4367	Hull	Hull			⚠ elisió d'Hull acceptada
+4368	Scarborough	Scarborough			
+4369	Carmarthen	Carmarthen			
+4370	Bedfordshire	Bedfordshire			
+4371	Sussex	Sussex			
+4372	Coventry	Coventry			
+4373	Devon	Devon			
+4374	Dorset	Dorset			
+4375	Chester	Chester			
+4376	Leicester	Leicester			
+4377	Ormond	Ormond			
+4378	Desmond	Desmond			
+4379	Midlands	Midlands			
+4380	Donegal	Donegal			
+4381	Oversticht	Oversticht			
+4382	Groningen	Groningen			
+4383	Den Haag	Haia	la		
+4384	Rennais	Rennais			
+4385	Cotentin	Cotentin			
+4386	Bas-Poitou	Bas-Poitou			
+4387	Angoumois	Angoumois			
+4388	Chartres	Chartres			
+4389	Touraine	Turena			
+4390	Troyes	Troyes			
+4391	Vivarais	Vivarais			
+4392	Auxerrois	Auxerrois			
+4393	Tabayin	Tabayin			
+4394	Salin	Salin			
+4395	Yamethin	Yamethin			
+4396	Prome	Prome			
+4397	Yawnghwe	Yawnghwe			
+4398	Mawkmai	Mawkmai			
+4399	Dagon	Dagon			
+4400	Naga Hills	Turons Naga	els		
+4401	Arakan Mountains	Serralada d'Arakan	la		
+4402	Gaoligong Mountains	Muntanyes Gaoligong	les		
+4403	Hengduan Mountains	Muntanyes Hengduan	les		
+4404	Minsin	Minsin			
+4405	Katha	Katha			
+4406	Mong Kung	Mong Kung			
+4407	Ruhunu	Ruhunu			
+4408	Salavata	Salavata			
+4409	Trincomale	Trincomale			
+4410	Kumari	Kumari			
+4411	Samana	Samana			
+4412	Dindigul	Dindigul			
+4413	Cannanore	Cannanore			
+4414	Salem	Salem			
+4415	Negapatam	Negapatam			
+4416	Tranqebar	Tranqebar			
+4417	Kanchipuram	Kanchipuram			
+4418	Nellore	Nellore			
+4419	Adanki	Adanki			
+4420	Chandragiri	Chandragiri			
+4421	Seringapatam	Seringapatam			
+4422	Sira	Sira			
+4423	Gutti	Gutti			
+4424	Adavani	Adavani			
+4425	Kondavidu	Kondavidu			
+4426	Chitradurg	Chitradurg			
+4427	Honnavara	Honnavara			
+4428	Mudgal	Mudgal			
+4429	Rajapur	Rajapur			
+4430	Daman	Daman			
+4431	Kolhapur	Kolhapur			
+4432	Junir	Junir			
+4433	Nasik	Nasik			
+4434	Dharangaon	Dharangaon			
+4435	Sholhapur	Sholhapur			
+4436	Devarakonda	Devarakonda			
+4437	Paithre	Paithre			
+4438	Nander	Nander			
+4439	Khamammet	Khamammet			
+4440	Narayanpur	Narayanpur			
+4441	Ganjam	Ganjam			
+4442	Washim	Washim			
+4443	Karanja	Karanja			
+4444	Manidurg	Manidurg			
+4445	Kanker	Kanker			
+4446	Kalahandi	Kalahandi			
+4447	Patna	Patna			
+4448	Parlakhimedi	Parlakhimedi			
+4449	Jammu	Jammu			
+4450	Mayurbhanj	Mayurbhanj			
+4451	Sonpur	Sonpur			
+4452	Ratanpur	Ratanpur			
+4453	Thalner	Thalner			
+4454	Porbandar	Porbandar			
+4455	Diu	Diu			
+4456	Jhalavad	Jhalavad			
+4457	Khambhat	Khambhat			
+4458	Narbada	Narbada			
+4459	Saugor	Saugor			
+4460	Handia	Handia			
+4461	Ujjain	Ujjain			
+4462	Vagad	Vagad			
+4463	Bhatnair	Bhatnair			
+4464	Bundi	Bundi			
+4465	Ranthambore	Ranthambore			
+4466	Mahoba	Mahoba			
+4467	Kalinjar	Kalinjar			
+4468	Bandogarh	Bandogarh			
+4469	Rohtasgarh	Rohtasgarh			
+4470	Soumelpur	Soumelpur			
+4471	Bishnupur	Bishnupur			
+4472	Monghyr	Monghyr			
+4473	Chakla	Chakla			
+4474	Sonargaon	Sonargaon			
+4475	Fathabad	Fathabad			
+4476	Nadia	Nadia			
+4477	Satgaon	Satgaon			
+4478	Haibatnagar	Haibatnagar			
+4479	Goraghat	Goraghat			
+4480	Mahikantha	Mahikantha			
+4481	Punakha	Punakha			
+4482	Sikkim	Sikkim			
+4483	Morang	Morang			
+4484	Makwanpur	Makwanpur			
+4485	Palpa	Palpa			
+4486	Purnia	Purnia			
+4487	Saran	Saran			
+4488	Champaran	Champaran			
+4489	Hajipur	Hajipur			
+4490	Ghazipur	Ghazipur			
+4491	Dang	Dang			
+4492	Doti	Doti			
+4493	Sirmur	Sirmur			
+4494	Khairabad	Khairabad			
+4495	Feyzabad	Feyzabad			
+4496	Kora	Kora			
+4497	Kannauj	Kannauj			
+4498	Sambhal	Sambhal			
+4499	Bareily	Bareily			
+4500	Bharatpur	Bharatpur			
+4501	Bhilwara	Bhilwara			
+4502	Merta	Merta			
+4503	Mansura	Mansura			
+4504	Nasirpur	Nasirpur			
+4505	Khairpur	Khairpur			
+4506	Barmer	Barmer			
+4507	Churu	Churu			
+4508	Bahawalpur	Bahawalpur			
+4509	Karor	Karor			
+4510	Shorkot	Shorkot			
+4511	Bhera	Bhera			
+4512	Bharuch	Bharuch			
+4513	Dipalpur	Dipalpur			
+4514	Sakya	Sakya			
+4515	Gyirong	Gyirong			
+4516	Purang	Purang			
+4517	Nedong	Nedong			
+4518	Tsurphu	Tsurphu			
+4519	Damxung	Damxung			
+4520	Rutog	Rutog			
+4521	Skardu	Skardu			
+4522	Aqenganggyai	Aqenganggyai			
+4523	Inowroclaw	Inowroclaw			
+4524	Dobrzyn	Dobrzyn			
+4525	Rawa	Rawa			
+4526	Gniezno	Gniezno			
+4527	Checiny	Checiny			
+4528	Kujawy	Kujawy			
+4529	Iasi	Iasi			⚠ forma original Iași (ș no disponible)
+4530	Birlad	Birlad			
+4531	Giurgiu	Giurgiu			
+4532	Severin	Severin			
+4533	Wielun	Wielun			
+4534	Upita	Upita			
+4535	Wilkimierz	Wilkimierz			
+4536	Lida	Lida			
+4537	Nowogrodek	Nowogrodek			
+4538	Chelm	Chelm			
+4539	Kremenets	Kremenets			
+4540	Winnica	Winnica			
+4541	Drohobycz	Drohobycz			
+4542	Lubnie	Lubnie			
+4543	Rylsk	Rylsk			
+4544	Bobrujsk	Bobrujsk			
+4545	Sluck	Sluck			
+4546	Málaga	Màlaga			
+4547	Albacete	Albacete			
+4548	Huelva	Huelva			
+4549	Xàtiva	Xàtiva			
+4550	Castelló	Castelló			
+4551	Ávila	Àvila			
+4552	Palencia	Palència			
+4553	Zamora	Zamora			
+4554	Lugo	Lugo			
+4555	Pontevedra	Pontevedra			
+4556	Aveiro	Aveiro			
+4557	Calatayud	Calatayud			
+4558	Orense	Ourense			
+4559	Menorca	Menorca			
+4560	Ibiza	Eivissa			
+4561	Tétouan	Tetuan			
+4562	Mers el Kebir	Mers el Kebir			
+4563	Salé	Salé			
+4564	Anfa	Anfa			
+4565	Tenerife	Tenerife			
+4566	Kairwan	Kairuan			
+4567	Sabha	Sabha			
+4568	Demnate	Demnate			
+4569	High Atlas	Alt Atles	l'		
+4570	Texcoco	Texcoco			
+4571	Tlacopan	Tlacopan			
+4572	Malinalco	Malinalco			
+4573	Acambaro	Acambaro			
+4574	Ihuatzio	Ihuatzio			
+4575	Puruaran	Puruaran			
+4576	Amaxocotlan	Amaxocotlan			
+4577	Tohono	Tohono			
+4578	Tzapotzingo	Tzapotzingo			
+4579	Sayula	Sayula			
+4580	Tecoman	Tecoman			
+4581	Yohualtepec	Yohualtepec			
+4582	Teotitlan	Teotitlan			
+4583	Xocotla	Xocotla			
+4584	Mitla	Mitla			
+4585	Tzotzil	Tzotzil			
+4586	Jakaltek	Jakaltek			
+4587	Qumarkaj	Qumarkaj			
+4588	Kobox	Kobox			
+4589	Moran	Moran			
+4590	Xiu	Xiu			
+4591	Chikinchel	Chikinchel			
+4592	Ulva	Ulva			
+4593	Xicaque	Xicaque			
+4594	Tzul	Tzul			
+4595	Guaymi	Guaymi			
+4596	Kuna	Kuna			
+4597	Talamanca	Talamanca			
+4598	Cuauhtochco	Cuauhtochco			
+4599	Sinu	Sinu			
+4600	Magangué	Magangué			
+4601	Chimila	Chimila			
+4602	Motilones	Motilones			
+4603	Moniquira	Moniquira			
+4604	Pastos	Pastos			
+4605	Putumayos	Putumayos			
+4606	Chichitames	Chichitames			
+4607	Pijaos	Pijaos			
+4608	Achaguas	Achaguas			
+4609	Variquicimeto	Variquicimeto			
+4610	Yukpa	Yukpa			
+4611	Wayuu	Wayuu			
+4612	Tacarigua	Tacarigua			
+4613	Guanaguanare	Guanaguanare			
+4614	Tuneo	Tuneo			
+4615	Guanipa	Guanipa			
+4616	Anzoategui	Anzoategui			
+4617	Guaju	Guaju			
+4618	Yaquimo	Yaquimo			
+4619	Marien	Marien			
+4620	Ciguayo	Ciguayo			
+4621	Higuey	Higuey			
+4622	Canimar	Canimar			
+4623	Escambrey	Escambrey			
+4624	Guane	Guane			
+4625	Mayaca	Mayaca			
+4626	Potano	Potano			
+4627	Tanu	Tanu			
+4628	Nitahendé	Nitahendé			
+4629	Ndawe Qoha	Ndawe Qoha			
+4630	Natahéndé	Natahéndé			
+4631	Naflat	Naflat			
+4632	Tsi'ya	Tsi'ya			
+4633	Sobaipuri	Sobaipuri			
+4634	Tsék'aadn	Tsék'aadn			
+4635	Taaqtam	Taaqtam			
+4636	Choinumni	Choinumni			
+4637	Ohlone	Ohlone			
+4638	Wint'uh	Wint'uh			
+4639	Paipai	Paipai			
+4640	Tecpatitlan	Tecpatitlan			
+4641	Xilotepec	Xilotepec			
+4642	Pame	Pame			
+4643	Xiconaque	Xiconaque			
+4644	Jocome	Jocome			
+4645	Xochipillan	Xochipillan			
+4646	Tarahumara	Tarahumara			
+4647	Xecora	Xecora			
+4648	Acaxee	Acaxee			
+4649	Mayo	Mayo			
+4650	Opata	Opata			
+4651	Tsushima	Tsushima			
+4652	Haicheng	Haicheng			
+4653	Maolian	Maolian			
+4654	Fu'erhe	Fu'erhe			
+4655	Shilimian	Shilimian			
+4656	Wolanhe	Wolanhe			
+4657	Changbai Mountains	Muntanyes Changbai	les		
+4658	Nangha'er	Nangha'er			
+4659	Tulutingshan	Tulutingshan			
+4660	Tunhe	Tunhe			
+4661	Edala	Edala			
+4662	Halacha	Halacha			
+4663	Hurha	Hurha			
+4664	Oroqen	Oroqen			
+4665	West Buteha	West Buteha			
+4666	Barag	Barag			
+4667	Bayan-Uul	Bayan-Uul			
+4668	Orkhon	Orkhon			
+4669	Sainshand	Sainshand			
+4670	Urad	Urad			
+4671	Kalgan	Kalgan			
+4672	Josutu	Josutu			
+4673	Ujimqin	Ujimqin			
+4674	Korchin	Korchin			
+4675	Bayisingtu	Bayisingtu			
+4676	Badain Jaran	Badain Jaran			
+4677	Noyon	Noyon			
+4678	Qaraqorum	Qaraqorum			
+4679	Khovsgol	Khovsgol			
+4680	Zakhchin	Zakhchin			
+4681	Olgii	Olgii			
+4682	Monkhkhairkhan	Monkhkhairkhan			
+4683	Altay	Altai			
+4684	Dzhemenika	Dzhemenika			
+4685	Karagandy	Karagandy			
+4686	Ekibastuz	Ekibastuz			
+4687	Imakia	Imakia			
+4688	Baraba	Baraba			
+4689	Om	Om			
+4690	Ishim	Ishim			
+4691	As	As			
+4692	Turgay	Turgay			
+4693	Keriya	Keriya			
+4694	Foix	Foix			
+4695	Carcassonne	Carcassona			
+4696	Toulon	Toló			
+4697	La Marche	Marche	la		
+4698	Cephalonia	Cefalònia			
+4699	Arta	Arta			
+4700	Lesbos	Lesbos			
+4701	Corinth	Corint			
+4702	Siroz	Siroz			
+4703	Kostendil	Kostendil			
+4704	Tirnovo	Tirnovo			
+4705	Gumulcine	Gumulcine			
+4706	Tolcu	Tolcu			
+4707	Wasserburg	Wasserburg			
+4708	Freising	Freising			
+4709	Passau	Passau			
+4710	Bregenz	Bregenz			
+4711	Donauwörth	Donauwörth			
+4712	Constance	Constança			
+4713	Urach	Urach			
+4714	Durlach	Durlach			
+4715	Rothenburg	Rothenburg			
+4716	Coburg	Coburg			
+4717	Bayreuth	Bayreuth			
+4718	Aschaffenburg	Aschaffenburg			
+4719	Bresse	Bresse			
+4720	Geneva	Ginebra			
+4721	Fribourg	Friburg			
+4722	Illanz	Illanz			
+4723	Opole	Opole			
+4724	Pardubice	Pardubice			
+4725	Jindrichuv Hradec	Jindrichuv Hradec			
+4726	Hradiste	Hradiste			
+4727	Saluzzo	Saluzzo			
+4728	Pavia	Pavia			
+4729	Padova	Pàdua			
+4730	Bologna	Bolonya			
+4731	Spoleto	Spoleto			
+4732	Terracina	Terracina			
+4733	Molise	Molise			
+4734	Avellino	Avellino			
+4735	Arborea	Arborea			
+4736	Trapani	Trapani			
+4737	Girgenti	Girgenti			⚠ forma històrica del joc (cat. Agrigent)
+4738	Trieste	Trieste			
+4739	Bergamo	Bèrgam			
+4740	Como	Como			
+4741	Halle	Halle			
+4742	Goslar	Goslar			
+4743	Weimar	Weimar			
+4744	Zwickau	Zwickau			
+4745	Rügen	Rügen			
+4746	Stargard	Stargard			
+4747	Dramburg	Dramburg			
+4748	Brandenburg	Brandenburg			
+4749	Neubrandenburg	Neubrandenburg			
+4750	Krujë	Krujë			
+4751	Cilli	Cilli			
+4752	Rijeka	Rijeka			
+4753	Zadar	Zadar			
+4754	Kotor	Kotor			
+4755	Podrinje	Podrinje			
+4756	Bjelovar	Bjelovar			
+4757	Kolubara	Kolubara			
+4758	Etschtal	Etschtal			
+4759	Oberkärnten	Oberkärnten			
+4760	Innbaiern	Innbaiern			
+4761	Traungau	Traungau			
+4762	Wienerwald	Wienerwald			
+4763	The Alps	Alps	els		
+4764	Salins	Salins			
+4765	Mulhouse	Mulhouse			
+4766	Verdun	Verdun			
+4767	Zweibrücken	Zweibrücken			
+4768	Jülich	Jülich			
+4769	Lille	Lille			
+4770	Den Bosch	Den Bosch			
+4771	Verden	Verden			
+4772	Celle	Celle			
+4773	Göttingen	Göttingen			
+4774	Fulda	Fulda			
+4775	Ravensberg	Ravensberg			
+4776	Blois	Blois			
+4777	Forez	Forez			
+4778	Görlitz	Görlitz			
+4779	Gallipoli	Gal·lípoli			
+4780	Ohrid	Ohrid			
+4781	Transvaal	Transvaal			
+4782	Tswana	Tswana			
+4783	Swazi	Swazi			
+4784	Upper Limpopo	Upper Limpopo			
+4785	Sheffield	Sheffield			
+4786	Prignitz	Prignitz			
+4787	Ribatejo	Ribatejo			
+4788	Plasencia	Plasencia			
+4789	Segovia	Segòvia			
+4790	Pangguyanan	Pangguyanan			
+4791	Cirebon	Cirebon			
+4792	Kendal	Kendal			
+4793	Pajang	Pajang			
+4794	Malang	Malang			
+4795	Bone	Bone			
+4796	Kendari	Kendari			
+4797	Soppeng	Soppeng			
+4798	Wajo	Wajo			
+4799	Sangkulirang	Sangkulirang			
+4800	Paser	Paser			
+4801	Batulican	Batulican			
+4802	Pontianak	Pontianak			
+4803	Meliau	Meliau			
+4804	Kuching	Kuching			
+4805	Bintulu	Bintulu			
+4806	Kapit	Kapit			
+4807	North Borneo	Borneo Septentrional			
+4808	Sumatra	Sumatra			
+4809	Langkat	Langkat			
+4810	Deli	Deli			
+4811	Barus	Barus			
+4812	Gerik	Gerik			
+4813	Penang	Penang			
+4814	Semantan	Semantan			
+4815	Singapura	Singapura			
+4816	Rengat	Rengat			
+4817	Padang	Padang			
+4818	Indrapura	Indrapura			
+4819	Quang Ninh	Quang Ninh			
+4820	Hung Hoa	Hung Hoa			
+4821	Nghe An	Nghe An			
+4822	Amaravati	Amaravati			
+4823	Jarai	Jarai			
+4824	Rhade	Rhade			
+4825	Pursat	Pursat			
+4826	Kampot	Kampot			
+4827	Kampom Pous Thom	Kampom Pous Thom			
+4828	Preah Vihear	Preah Vihear			
+4829	Raung Dapey	Raung Dapey			
+4830	Rayong	Rayong			
+4831	Bangkok	Bangkok			
+4832	Lavo	Lavo			
+4833	Phetchabun	Phetchabun			
+4834	Suphanburi	Suphanburi			
+4835	Kanchanburi	Kanchanburi			
+4836	Si Thep	Si Thep			
+4837	Muang Ngoi	Muang Ngoi			
+4838	Roi Et	Roi Et			
+4839	Champasak	Champasak			
+4840	Xekong	Xekong			
+4841	Lamphun	Lamphun			
+4842	Lampang	Lampang			
+4843	Annamite Mountains	Serralada Annamita	la		
+4844	Dawna Hills	Turons de Dawna	els		
+4845	Mamuju	Mamuju			
+4846	Woolna	Woolna			
+4847	Yunawa	Yunawa			
+4848	Mingin	Mingin			
+4849	Kurtjar	Kurtjar			
+4850	Biri	Biri			
+4851	Gureng	Gureng			
+4852	Wuli-Wuli	Wuli-Wuli			
+4853	Bidjara	Bidjara			
+4854	Badtjala	Badtjala			
+4855	Yiman	Yiman			
+4856	Barunggam	Barunggam			
+4857	Bundjalung	Bundjalung			
+4858	Tharawal	Tharawal			
+4859	Gundungurra	Gundungurra			
+4860	Dharug	Dharug			
+4861	Waveroo	Waveroo			
+4862	Ngadjuri	Ngadjuri			
+4863	Nyaki-Nyaki	Nyaki-Nyaki			
+4864	Yuat	Yuat			
+4865	Kurrama	Kurrama			
+4866	Mangala	Mangala			
+4867	Wunambul	Wunambul			
+4868	Pyemmairrener	Pyemmairrener			
+4869	Peerapper	Peerapper			
+4870	Willandra Lakes	Llacs Willandra	els		
+4871	Cowasuk	Cowasuk			
+4872	Wenrohonon	Wenrohonon			
+4873	Pegwaki	Pegwaki			
+4874	Westenhuck	Westenhuck			
+4875	Welhikhane	Welhikhane			
+4876	Scahentowanen	Scahentowanen			
+4877	Nottoway	Nottoway			
+4878	Eno	Eno			
+4879	Kituwah	Kituwah			
+4880	Combahee	Combahee			
+4881	Sawokli	Sawokli			
+4882	Etali	Etali			
+4883	Napochi	Napochi			
+4884	Houma	Houma			
+4885	Avoyel	Avoyel			
+4886	Nasoni	Nasoni			
+4887	Cochati	Cochati			
+4888	Tatteroa	Tatteroa			
+4889	Mohetan	Mohetan			
+4890	Kichessipirini	Kichessipirini			
+4891	Piktuk	Piktuk			
+4892	Iroquet	Iroquet			
+4893	Nebesek	Nebesek			
+4894	Ottagotouemin	Ottagotouemin			
+4895	Batiscan	Batiscan			
+4896	Meductic	Meductic			
+4897	Keinouche	Keinouche			
+4898	Noquet	Noquet			
+4899	Mamaceqtaw	Mamaceqtaw			
+4900	Otoe	Otoe			
+4901	Saone	Saone			
+4902	Makandwewin	Makandwewin			
+4903	Chinko	Chinko			
+4904	Espeminkia	Espeminkia			
+4905	Tapouaro	Tapouaro			
+4906	Coiracoentanon	Coiracoentanon			
+4907	Mosopelea	Mosopelea			
+4908	Tawehash	Tawehash			
+4909	Kitsash	Kitsash			
+4910	Tawakoni	Tawakoni			
+4911	Nabaydacu	Nabaydacu			
+4912	Kaniatarowanen	Kaniatarowanen			
+4913	Aniyutsi	Aniyutsi			
+4914	Neozho	Neozho			
+4915	Pitahawirata	Pitahawirata			
+4916	Panka	Panka			
+4917	Selis	Selis			
+4918	Hunkpapha	Hunkpapha			
+4919	Sihabi	Sihabi			
+4920	Wadopabina	Wadopabina			
+4921	Kuttawa	Kuttawa			
+4922	Pepikokia	Pepikokia			
+4923	Pacaha	Pacaha			
+4924	Laurentian Massif	Massís Laurentià			
+4925	White Mountains	Muntanyes Blanques	les		
+4926	Adirondacks	Adirondacks			
+4927	Blue Mountains	Muntanyes Blaves	les		
+4928	Allegheny Front	Front d'Allegheny			
+4929	Appalachians	Apalatxes	els		
+4930	Alleghenies	Muntanyes Allegheny	les		
+4931	Cumberland Mountains	Muntanyes Cumberland	les		
+4932	Great Smoky Mountains	Grans Muntanyes Fumejants			⚠ traducció literal; també es diu Great Smoky Mountains
+4933	Blue Ridge	Blue Ridge			
+4934	Maui	Maui			
+4935	Oahu	Oahu			
+4936	Kauai	Kauai			
+4937	Lau	Lau			
+4938	Vanua Levu	Vanua Levu			
+4939	Te Urewera	Te Urewera			
+4940	Lake Tulare	Llac Tulare	el		
+4941	Lake Cahuilla	Llac Cahuilla	el		

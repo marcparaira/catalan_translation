@@ -33,6 +33,10 @@ WORK_DIR = MOD_DIR / "tools" / "work"
 HASH_FILE = MOD_DIR / "tools" / "source_hashes.json"
 PREFIX = "ca_"
 SUFFIX = "_l_english.yml"
+OWN_KEY_PREFIX = "CA_"  # keys that only exist in this mod (grammar helper strings)
+PROV_KEY_RX = re.compile(r"^PROV\d+$")
+TAG_RX = re.compile(r"^\s*([A-Z][A-Z0-9]{2})\s*=", re.M)
+NAME_KEY_RX = re.compile(r"^[A-Z][A-Z0-9]{2}$")
 HEADER = "l_english:"
 BOM = "\ufeff"
 
@@ -180,6 +184,20 @@ class Vanilla:
                     self._spanish[k] = e.value
         return self._spanish
 
+    def country_tags(self) -> list[str]:
+        """Country tags (common/country_tags) plus name-override keys (XXX + XXX_ADJ), sorted."""
+        tags: set[str] = set()
+        for p in (self.game / "common" / "country_tags").glob("*.txt"):
+            text = p.read_text(encoding="cp1252", errors="replace")
+            tags.update(m.group(1) for m in TAG_RX.finditer(re.sub(r"#.*", "", text)))
+        tags.update(k for k in self.index if NAME_KEY_RX.match(k) and k + "_ADJ" in self.index)
+        return sorted(t for t in tags if t in self.index)
+
+    def name_keys(self) -> set[str]:
+        """Country names/adjectives and province names: maintained in glossary/*.tsv, not via todo."""
+        keys = {k for t in self.country_tags() for k in (t, t + "_ADJ")}
+        return keys | {k for k in self.index if PROV_KEY_RX.match(k)}
+
     def resolve(self, name: str) -> str:
         base = name
         for s in (SUFFIX, ".yml"):
@@ -219,7 +237,7 @@ def words(s: str) -> int:
 # ---------------------------------------------------------------- checks
 
 # Catalan grammar helpers (see glossary/guia_estil.md §6), defined in customizable_localization/.
-CA_PARTICLE_RX = re.compile(r"\[[^\[\]\"]+\.GetCa(?:El|De|A|Per|DeProv)(?:Cap)?\]")
+CA_PARTICLE_RX = re.compile(r"\[[^\[\]\"]+\.GetCa(?:El|De|A|Per)(?:Prov)?(?:Cap)?\]")
 CA_ADJ_RX = re.compile(r"(\[[^\[\]\"]+\.)GetCaAdj(?:FS|MP|FP)\]")
 
 
@@ -241,7 +259,7 @@ def check_entry(en: str, ca: str) -> list[tuple[str, str]]:
                 f"unexpected {' '.join(extra)}" if extra else ""] if x)
             out.append((sev, f"{name} mismatch: {detail}"))
     ca = raw_ca
-    bad = sorted({c for c in ca if not _cp1252(c) and c not in en})
+    bad = sorted({c for c in ca if not cp1252_ok(c) and c not in en})
     if bad:
         out.append(("error", f"characters the game font cannot show: {' '.join(bad)}"))
     if en.strip() and not ca.strip():
@@ -252,7 +270,7 @@ def check_entry(en: str, ca: str) -> list[tuple[str, str]]:
     return out
 
 
-def _cp1252(c: str) -> bool:
+def cp1252_ok(c: str) -> bool:
     try:
         _ = c.encode("cp1252")
         return True
@@ -314,11 +332,12 @@ def cmd_todo(args: Args, van: Vanilla) -> int:
     others = {k for p, lf in load_translations().items() if p != ca_path(base) for k in lf.entries}
     hashes = load_hashes()
     es = {} if args.no_es else van.spanish()
+    names = van.name_keys()
     picked: list[Entry] = []
     comments: collections.defaultdict[str, list[str]] = collections.defaultdict(list)
     for k in src.order:
         e = src.entries[k]
-        if k in others:
+        if k in others or k in names:
             continue
         if k in existing:
             if not (k in hashes and hashes[k] != src_hash(e.value)):
@@ -425,7 +444,8 @@ def cmd_validate(args: Args, van: Vanilla) -> int:
                 continue
             first_seen[k] = p
             if k not in van.index:
-                report(p, e.line, "warning", f"{k} no longer exists in the game")
+                if not k.startswith(OWN_KEY_PREFIX):
+                    report(p, e.line, "warning", f"{k} no longer exists in the game")
                 continue
             src = van.index[k][1]
             if e.version != src.version:
@@ -441,6 +461,8 @@ def cmd_stale(args: Args, van: Vanilla) -> int:
     n = 0
     for p, lf in load_translations().items():
         for k in lf.order:
+            if k.startswith(OWN_KEY_PREFIX):
+                continue
             if k not in van.index:
                 print(f"REMOVED  {p.name}: {k}")
                 n += 1

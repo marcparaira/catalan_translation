@@ -11,4 +11,5 @@ exclude = ["**/__pycache__", ".venv", "tools/work"]
 venvPath = "."
 venv = ".venv"
 pythonVersion = "3.12"
+extraPaths = ["tools"]  # scripts run as `python3 tools/<script>.py` and import each other
 typeCheckingMode = "recommended"

@@ -1,0 +1,15 @@
+# DEV ONLY - test event for the Catalan grammar helpers. Remove before release.
+# In game, open the console and run:  event ca_test.1
+namespace = ca_test
+
+country_event = {
+	id = ca_test.1
+	title = CA_TEST_TITLE
+	desc = CA_TEST_DESC
+	picture = ANGLICAN_SERMON_eventPicture
+	is_triggered_only = yes
+
+	option = {
+		name = CA_TEST_OK
+	}
+}
