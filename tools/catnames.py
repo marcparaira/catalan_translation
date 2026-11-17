@@ -276,7 +276,8 @@ def cmd_build(van: Vanilla) -> int:
     pnamed = sum(1 for r in provinces if r["ca"])
     print(f"countries: {named}/{len(countries)} named, {len(with_adj)} with adjectives")
     print(f"provinces: {pnamed}/{len(provinces)} named")
-    for p in (NAMES_YML, TRIGGERS_TXT, HELPERS_TXT):
+    catloc.write_progress_md(van)
+    for p in (NAMES_YML, TRIGGERS_TXT, HELPERS_TXT, catloc.PROGRESS_FILE):
         print(f"wrote {p.relative_to(MOD_DIR).as_posix()}")
     return 0
 

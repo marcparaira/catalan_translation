@@ -16,6 +16,12 @@ Normes per a la traducció catalana d'EU4. Si un cas no hi és, seguiu l'[Optimo
 - **El monarca**: *Majestat* (*Your Majesty* → *Majestat* / *Vostra Majestat*).
 - **Les frases** han de sonar naturals. Es pot reordenar, partir o ajuntar frases sempre que es conservi el sentit i tots els codis.
 
+### Botons i ordres
+
+- **Botons, opcions de menú i etiquetes d'ordenació**: infinitiu (*Confirmar*, *Cancel·lar la missió*, *Ordenar per cultura*, *Desactivar-ho tot*). Mai l'imperatiu (*Confirma*, *Ordena per*).
+- **Descripcions** del que fa un element: tercera persona (*Mostra el terreny*, *Acoloreix les províncies segons…*).
+- **Consells i instruccions al jugador**: segona persona del plural (*Feu clic dret…*, *Premeu F10…*).
+
 ## 3. Majúscules
 
 En català la majúscula és molt menys freqüent que en anglès:

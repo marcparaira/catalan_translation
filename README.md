@@ -58,6 +58,7 @@ python3 tools/catnames.py build   # regenerate the name file and the grammar hel
 | Command | Purpose |
 |---|---|
 | `validate` | Check all Catalan files for errors |
+| `progress --write` | Regenerate [PROGRESS.md](PROGRESS.md) (also done automatically by `merge` and `catnames.py build`) |
 | `progress --all --sort size` | List every game file, biggest first |
 | `stale` | After a game update: list translations whose English changed or was removed |
 | `rehash` | Mark hand-written translations as up to date |
